@@ -2181,10 +2181,6 @@ Neia: ...
 (You can deal with this...)
 (You have to...)
 
-(For her sake...)
-(For Hemo's sake...)
-(For everyone's sake...)
-
 Phoenix: Ms. Amaritan?
 
 Neia: ...
@@ -2336,7 +2332,7 @@ no matter how much it would piss him off.
 I was careful with the analysis, trying to figure out what it was...
 then I realized.. it wasn't Cintrean technology at all.
 Every time I attempted to run scanners...
-errors started to pop up. 
+it gave me more questions than it did answers.
 
 But then Hemo quickly came in... he seemed very rushed.
 Apparently the item was meant to decodify Cintrean machinery,
