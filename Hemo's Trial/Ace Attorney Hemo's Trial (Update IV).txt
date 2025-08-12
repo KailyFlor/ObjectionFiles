@@ -2168,6 +2168,7 @@ Neia: (Ohhh....)
 
 (Poor Keit... dear Divinity.)
 (Hemo's entire career is relying on that secret...)
+(Or even more role as president)
 
 Neia: ...
 
@@ -2177,7 +2178,7 @@ Neia: ...
 (There has to be a solution for this...)
 (Don't panic just now...)
 
-(You are the president...)
+(You are the president right now...)
 (You can deal with this...)
 (You have to...)
 
@@ -2259,7 +2260,7 @@ Mr. Wright, please, ask the question that concerns us all.
 
 Phoenix: Understood, Your Honor.
 
-Ms. Amaritan, do you know of any particular item that Mr. Kirskis had in his possession before this time period?
+Ms. Amaritan, do you know of any particular item that Mr. Kirskis had in his possession that could be highly valuable?
 
 Neia: Uhhh...
 
@@ -2303,7 +2304,7 @@ Neia: Nnngggh!!
 ...
 
 Alright... if you need it so much.
-I'll tell you what it is...
+I'll tell you what it is from what I remember...
 
 Keithra: Nnnn-!!!
 
@@ -2315,7 +2316,7 @@ he apparently haven't even had time to wake him up.
 I was wondering what exactly made him this tired so... I took a glance at what he was doing,
 and there I saw it: A jewel.
 A green shiny jewel with a very intricate metallic cover around it.
-I had no idea how Hemo would such possession, 
+I had no idea how Hemo would have such possession, 
 I'd understand if Urza or Iluia had it since they are Luthneans, but not him.
 
 
@@ -2330,17 +2331,137 @@ As president I cannot allow such a dangerous item to be nearby,
 no matter how much it would piss him off.
 
 I was careful with the analysis, trying to figure out what it was...
-then I realized.. it wasn't Cintrean technology at all.
+then I realized... it wasn't any kind of known technology within registry.
 Every time I attempted to run scanners...
 it gave me more questions than it did answers.
 
 But then Hemo quickly came in... he seemed very rushed.
-Apparently the item was meant to decodify Cintrean machinery,
+Apparently the item was an important object he was reserving in his hangar,
+he told me it was supposed to be kept secret,
 I had no idea.
 
-However, knowing it was his belonging,
-I gave it back to him.
-I told him to not use it for malice...
+After checking the Command order he gave me, I saw his claim was legit,
+so I gave it back to him.
+I told him to not use it for anything bad...
 which thankfully... 
 ever since I knew of it, he did not.
 
+Rin Ohm: [#ts200]...
+
+Edgeworth: How quaint.
+[#bgm4]There is a [#fm][#sm][#bgs15][#/cff0000]glaring contradiction[/#] in Ms. Amaritan's testimony...
+If that is what Mr. Kirskis [#/c91b697]gave to his father[/#] that day...
+[#bgs12][#sl][#fl][#ts25]THEN WHY DOES HE HAVE IT [#/b]AFTER THE MISSION[/#]!?
+
+Neia: [#ts42][#tbs105]Was wondering the same...
+
+Phoenix: [#/b]Keit[/#]... [#p300]this isn't what I was expecting...
+
+Edgeworth: [#fm][#sm][#bgs24]There[#/cf3f639] has to be somebody[/#] covering up for someone here.
+
+OBJECTION!
+Phoenix: [#ts25]There[#/r] can't be[/#] any cover ups here, [#p200]there are [#/b]too many high authorities[/#] involved!![#bgs9]
+This is a [#/c6fa5d8]multi-step operation[/#] by a[#/r] governmental body[/#], [#p200]its complexity is [#/g]too large[/#] to be a fabrication.
+
+Keithra: [#ts43][#tbs125]Well... [#p200]it's not that complicated actually...
+
+OBJECTION!
+Edgeworth: How could it possibly [#fm][#sm][#bgs15][#/cff0000]NOT [/#]be complicated.
+So that's why [#/b]you called Ms. Amaritan[/#]....
+You didn't want to tell the story yourself because it was [#fm][#sm][#bgs24][#/cffeb3a]A BLUFF[/#]!!
+
+OBJECTION!
+Rin Ohm: [#fm][#sm][#bgs2]Mr. Edgeworth, [#p200][#/ce7de13]FOCUS [/#]here!!
+[#fm][#sm][#bgs24][#/cff0000]Do not [/#]make [#/r]the same mistake[/#] I made!!
+
+It might seem [#/b]counterintuitive[/#] at first glance, [#p200]but the [#/c5364ff]regulations stated [/#]are clear.[#bgs3]
+Ms. Amaritan explicitly mentioned a [#/c8c95e7]Command order[/#] being shown to her...
+which could explain this apparent [#/g]contradiction[/#].[#bgs9]
+
+[#bgs12][#sm][#fm][#/ccbc3a5]Ms. Amaritan[/#], [#p200]what is this  [#/c8c95e7]Command order[/#] you talk about!?
+
+Neia: Well... [#p200]it stated that the [#/g]jewel [/#]was being acclaimed by the [#/c928ffd]Naori Command[/#],
+and utilized during the [#/b]controlled mentoring[/#] session.[#bgs3]
+
+Rin Ohm: A [#/g]piece of jewelry[/#] with [#/cecff12]anomalous effects [/#]is clear to be something that the [#/c8efff1]Cintrean authorities [/#]are aware of.[#bgs9]
+
+OBJECTION!
+Edgeworth: But then, [#p200]if they actually took that object with them...
+What was [#/c8764d1]the bargain[/#] in the first place?[#bgs3]
+
+Keithra: Ehhhhh...
+
+OBJECTION!
+Phoenix: We already know that Tedu Kas Omou [#/b]falsified that report[/#], [#p200]Edgeworth.
+[#ts25][#bgs24][#sm][#fm]What makes you think [#/g]he can't lie [/#]about the bargain too!?
+There could be other ways they utilized [#/g]that artefact[/#] there!!
+
+OBJECTION!
+Edgeworth: Are you destroying your [#/cfbff42]very own argument [/#]right now out of desperation?
+If there was [#/ca57bdb]no bargain[/#]...
+Then why did [#/c8dd690]the pirates[/#] leave that [#/b]outpost[/#]?[#bgs9]
+
+Keithra: [#ss][#ts102]Rgh...
+
+OBJECTION!
+Phoenix: Because of another of the properties [#/g]of the jewel[/#], [#p200]of course!!
+It has been established that [#/g]the jewel[/#] is something that escapes [#/c6eebdc]Cintrean comprehension[/#].[#bgs3]
+[#bgs24][#sm][#fm]What if they [#/r]scared them off[/#] with it!?
+
+OBJECTION!
+Edgeworth: [#bgs24][#sm][#fm]That[#/g] jewel[/#] interferes with Cintrean technology, [#p200]not [#/g]Orion[/#]!!
+
+OBJECTION!
+Phoenix: The [#/c82e5fa]Meritocracy [/#]is PART of [#/c77ffce]Alninam[/#], [#p200]which is where the name [#/g]Orion [/#]comes from!!
+[#/cc2f8ff]Cintrean technology[/#] is still part of [#/g]Orion technology[/#].[#bgs9]
+
+
+OBJECTION!
+Rin Ohm: Mr. Wright, [#p200]we have [#/cfbeb5c]already established [/#]that Orion technology is [#bgs15][#sm][#fm][#/cff0000]NOT [/#]Cintrean technology.
+
+OBJECTION!
+Phoenix: [#ts26][#bgs24][#sm][#fm]And who said that the reason [#/g]the jewel[/#] affects Cintrean technology is because of [#/b]Essence Conversion[/#] machinery?
+For all we know it could have[#/b] other type of components[/#] that [#/g]Orion technology[/#] still utilizes.[#bgs3]
+
+Neia: [#ts39][#tbs102]I mean... [#p300]it is not outside the realm of-
+
+Edgeworth: That theory is [#/cff0000]ridiculous[/#], [#p200]why would they draw the Kirskis clan out then?
+To scare them off with[#/g] the artefact[/#]?
+[#ts26][#bgs12][#sl][#fl]THAT'S THE [#/b]PERFECT MOMENT[/#] FOR THEM TO [#/g]ESCAPE WITH KEITHRA AND MR. KIRSKIS [/#]WITH THEM!!
+
+HOLD IT!
+Keithra: Can you two [#bgs24][#sm][#fm][#/cfad50e]LISTEN[/#] for one moment!?
+...
+Look... [#p200]I know the reason why it [#/b]may seem to you[/#] like there is a contradiction, [#p200]Mr. Edgeworth.
+But let me assure you... [#p200]there is none, [#p200]it's just that the story [#/cfdf539]is incomplete[/#].[#bgs9]
+
+Edgeworth: Explain yourself...
+
+Keithra: When I was in that prison... [#p200]I saw everything...
+the discussion that Hemo had with [#/c8cc29f]his father[/#]...
+
+It was very heated...
+They were yelling at each other, [#p200]calling each other names...
+It was [#/g]terribly uncomfortable [/#]to be there listening...
+
+But then I saw Hemo do the offering...
+It was [#/g]the artefact[/#]...
+or at least he framed it as if it were.
+He told his father that it was[#/r] encrypted[/#], [#p200]perhaps as a challenge.
+And that it would take a[#/b] long time[/#] to decrypt it all...
+
+His father was [#/cffe247]too prideful[/#] to even question it...
+He took the artefact...  [#p400]and [#/r]disinherited his son[/#] in front of me.
+Telling him he was not a [#/g]Kirskis [/#]anymore...
+[#/cff0000]Banishing out [/#]of his ship...
+
+When the deflectors that had me in place dropped, [#p200]I instantly lost consciousness.
+Yet Hemo told me afterwards [#/b]why he chose to keep[/#] his last name Kirskis IV: [#p300]because it was [#/g]HIS[/#].
+He[#/cff0000] wouldn't allow[/#] the clan his father had to [#/r]taint [/#]his identity.
+He would stay in the [#/ca0ffee]Meritocracy [/#]and make his own [#/g]mentorship line[/#]...
+and that way show his father just [#/r]how much he cares[/#] about his disinheritance.
+
+And that is how everything fits...
+Hemo gave his father a coy, [#p200]an artefact that [#/cff0000]wasn't the real deal[/#]...
+and since his father was looking for that all along [#/cd5ff9f]instead of looking for his own son[/#]...
+[#/b]he let us be[/#]...
