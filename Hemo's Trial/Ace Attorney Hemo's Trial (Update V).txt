@@ -1129,7 +1129,7 @@ Candanz: …
 (They are referring to THAT mission...)
 
 
-FLASHBACK
+FLASHBACK (CANDANZ'S PERSPECTIVE, OUTSIDE COURTROOM)
 Candanz: Commander Tedu told me that it'd be a risky option…
 But Keit had to find a way to proof to everyone she was an official Naori Command member,
 so there was no other way around it.
@@ -1137,7 +1137,7 @@ Everything was simply a matter of inevitability given her upcoming dismissal...
 
 
 The universe is such a vast place...
-I always wondered why everytime something happens,
+I always wondered why every time something happens,
 it has to AFFECTS US in specific.
 It is almost like Meritocracy is made to challenge the greatest of us pass their breaking point...
 it is intended that way by design.
@@ -1458,7 +1458,7 @@ Why did Mr. Kirskis decide to stay?
 Keithra: Hgnnh...!!
 
 
-FLASHBACK
+(KEIT'S PERSPECTIVE, OUTSIDE COURTROOM)
 Rimmur: So let me get this straight, son.
 You pretend to come here to MY SHIP and just tell me you want go back...
 IS THAT IT!?
@@ -2565,3 +2565,165 @@ Edgeworth: That cannot be...
 it is too strategically flawed... there HAS to be a BIGGER reason why he took the bait.
 Besides, that doesn't address the  main inconsistency:
 just why would he think Mr. Kirskis is the key to getting the artefact?
+
+OBJECTION!
+Phoenix: [#ts24][#fl][#sl][#bgs24]THEY SIMPLY DETECTED IT WHEN [#/b]APPROACHING CLOSER[/#] TO THE OUTPOST!!
+
+OBJECTION!
+Rin Ohm: [#ts24][#fl][#sl][#bgs24]THEY WOULD HAVE [#/r]OTHERWISE TRACKED[/#] MR. KIRSKIS!!
+
+OBJECTION!
+Phoenix: [#ts24][#fl][#sl][#bgs24]WHAT IF THEY PURPOSEFULLY ALLOWED THE [#/b]SIGNAL[/#] TO [#/cf7ef30]GO THROUGH [/#]TEMPORARILY!!
+
+OBJECTION!
+Edgeworth: MR. WRIGHT!!!
+The clan does [#fl][#sl][#bgs15][#/cff0000]NOT[/#] have any reason to approach a [#/c7e7ce4]Naori Command outpost[/#]...
+unless they were willing to [#/r]waste resources [/#]to '[#/g]rescue[/#]' Mr. Kirskis,[#bgs3]
+[#ts38]WHICH IS [#fl][#sl][#bgs12][#/cff0000]ABSURD[/#]!!
+
+Neia: GUUUYYYSSS!!!
+
+S-[#p600]
+Sorry if I had to interrupt like this...
+but I see this argument as[#/r] pointless[/#]...[#bgs3]
+
+Edgeworth: [#ts28][#fl][#sl][#bgs2]HOW COULD IT BE [#/r]POINTLESS[/#]!?
+
+Rin Ohm: YES AMARARITAN,[#p200]  [#fl][#sl][#bgs24][#/cfceb52]ELABORATE[/#]!!
+
+Neia: The reason it is[#/r] pointless[/#] is...
+because I [#/g]know the answer[/#] you are all [#/cfff624]seeking[/#].[#bgs9]
+
+Keithra: [#ss][#ts59]N-[#ts119]N[#ts59]-[#ts119]N[#ts59]eia...
+[#ts59]d-[#ts119]d[#ts59]on't...
+
+Neia: I knew it would come to this eventually...
+it was[#/cff0000] bound to bite me back[/#] sooner or later...
+[#ts43][#tbs112]seems [#/b]it is the time[/#].
+
+When I found [#/g]that artefact[/#]... [#p200]it wasn't only its nature that I thought it was [#/r]odd[/#]...
+there was something[#/cf9f353] intrinsically wrong[/#] about how it reacted with [#/c7be7ff]Cintrean technology[/#].
+
+The fact all of those warnings popped up isn't mere coincidence,
+my [#/c94f7f7]Great Link system[/#] was panicking, [#p200]like something was [#/b]interfering[/#] with its mechanisms.
+
+So when I checked it... [#p200]I didn't simply [#/cdde04c]run conventional scanners[/#]...
+I ran a [#/cbde6aa]thorough forensic analysis[/#]...
+[#sm][#fl][#bgs9]until I eventually caught on something.
+
+I[#/b] couldn't believe [/#]what the [#/r]initial report[/#] was showing to me...
+a data log of instances in which [#/g]the artefact was used[/#].
+The dates matched [#/cece534]perfectly[/#] what I feared most...
+[#/b]July 17th, 2493[/#]: [#p300]the day before the [#/g]midterm exam results[/#] were given...
+that seemed to corroborate that [#/c51ffff]it was utilized[/#] during that time.
+
+When [#/g]Hemo [/#]came in, [#p200]
+I [#/r]confronted him[/#] with what I found.
+I told him that if [#/g]this artefact[/#] was indeed utilized to in any shape or form to [#/cff0000]cheat on his exams[/#]...
+he would probably [#/cd878da]be expelled immediately[/#].
+
+However, [#p200]I had [#/r]no way to confirm[/#] its legitimacy with the technology I had available,
+so I still [#/g]gave back to him[/#] the jewel.
+It was an[#/c8890d6] important Command item[/#], so it was possible that [#/c90ffff]the authorities[/#] already knew of its reports,
+he used to be an [#/c97b49d]Orion pirate[/#] after all, [#p200]he wasn't supposed to be on [#/cf2de74]Cintrean education[/#],
+it is just to be expected that he'd find a way to [#/b]break the system[/#], [#p200]that's why he had over[#/r] six mentors[/#] before  Amur Pyne.
+
+And besides, [#p200]the [#/r]commotion[/#] that it would have originated if that [#/cf8d623]were to be the case[/#],
+[#/cff0000]wouldn't[/#] be worth it overall,
+it would [#/cff0000]damage my group[/#] for something that [#/cffd600]Principal Iwa[/#] probably already was aware of.
+
+I essentially balanced my duty [#/r]as a president[/#] with the possibility of [#/ca2d7d3]report manipulation[/#] by not only him...
+but also the[#/cf5d665] entirety of the Institute[/#] for putting a [#/g] former pirate [/#]on our education.
+I had[#/b] no way[/#] to tell whether this was something [#/c84ba89]he did[/#] with [#/cff0000]bad intentions[/#]...
+that is the way things are resolved in [#/g]Orion interspace[/#],
+so I opted for the path of [#/c52cea2]peaceful resolution[/#].
+
+So yes... [#p200]this is what confirms Hemo [#/g]had the artefact[/#] well before his [#/b]controlled mentoring session[/#].
+Since when?
+Ever since he entered the[#/cffd66d] Institute[/#], [#p200]that's the first log I saw targeting [#/g]Iris Academy[/#] registry.[#bgs3]
+
+I know Hemo has a [#/r]history of misconduct[/#]...
+and [#/cff0000]archive manipulation[/#]...
+we might now know exactly what[#/g] enabled it all[/#].
+
+But I swear, [#p200]I made sure he didn't use it [#/r]for malice[/#] ever since then...
+having it [#/cfcff59]revealed[/#]... [#p200]probably [#/g]made him reconsider[/#] things.
+That's why I am so sure [#/b]he has changed[/#] as a person.
+
+[#p1000][#ts50][#tbs115](I'm sorry Hemo... [#p500]I'm sorry Keit...)
+[#ts50][#tbs115](but the story had to be told.)
+
+GAVEL SLAM x3
+Judge: Given the importance of this new,[#p200] [#/g]updated[/#] testimony...[#bgs9]
+we will follow [#/b]normal proceedings[/#] moving forward.
+Since this is a crucial moment before we [#/r]reconvine[/#] with the original purpose of [/#]this trial...
+and the balance of [#/cffd541]justice[/#] has shifted towards the [#/b]defense[/#]'s narrative...
+the prosecution may now have the floor for [#/cf16666] cross-examination[/#].[#bgs3]
+
+GAVEL SLAM
+Mr. Edgeworth, [#p200]please, [#p200]you [#/b]may begin[/#] when you are ready.
+
+Rin Ohm: (I knew that defiler's archive manipulation had to be [#/g]powered somehow[/#]...)[#bgs3]
+(But to think he'd go as far as to cheat on the [#/cffe710]MIDTERM[/#] exams...)
+[#ts52][#tbs109]([#/cff0000]Pathetic[/#]....)
+
+Phoenix: So that's what was [#/cffe81a]making you panic[/#] before, [#p200]Keit.
+
+Keithra: [#ss][#ts67][#tbs113]Yeah...
+
+Phoenix: Don't fret, [#p200]I've got this now.
+
+Edgeworth: Don't get [#/g]ahead of yourselves[/#]...
+
+CROSS-EXAMINATION (NEIA: PHASE I)
+
+"[#bgm1][#/g]I knew it would come to this eventually...[/#]"
+"[#/g]it was bound to bite me back sooner or later...[/#]"
+
+HOLD IT!
+Edgeworth: Just [#/cffda57]why [/#]do you say that it would have come to this "[#/b]eventually[/#]" [#/cdebca8]Ms. Amaritan[/#]?[#bgs3]
+[#fm][#sm][#bgs24]Why did you hide [#/g]this detail[/#] before...
+if it only serves [#fm][#sm][#bgs15][#/b]to help[/#] his case?
+
+OBJECTION!
+Neia: [#ts26]The detail that was[#/r] difficult to testify [/#]was the fact he appeared to have [#sm][#fm][#bgs15][#/cff0000]cheated on his exams[/#]!!
+I'm sorry I had to omit that... [#p300]I just thought it [#/b]wouldn't be necessary[/#] to reveal it.[#bgs3]
+
+OBJECTION!
+Rin Ohm: [#ts24]Wouldn't be necessary to reveal something as important as [#fm][#sm][#bgs24][#/cff0000]THAT[/#]!?
+[#fm][#sm][#bgs12]STOP [#/cf2de28]SPOUTING [/#]EXCUSES!!
+
+HOLD IT!
+Neia: [#/ceea3a3]Rin[/#], [#p200]think it from my perspective for a moment, [#p200][#sm][#fm][#bgs15][#/cffdb1c]will you[/#]?
+This [#/g]whole thing[/#] was likely a [#/c96b5e2]full scale operation[/#] that doesn't even concern me.
+Just how do you want me to testify about something [#/r]that delicate[/#] without[#/b] proper justification[/#]...[#bgs3]
+
+OBJECTION!
+Edgeworth: Irrelevant.
+You should from here on out tell us [#sm][#fm][#bgs15][#/cffe926]EVERYTHING [/#]remotely related to this case,
+[#sm][#fm][#bgs24]if not you are obstructing[#/b] trial proceedings[/#]!!
+
+Neia: [#ts38][#tbs98][#sm][#bgs1]Alright... [#p200][#/g]I'm sorry[/#] it came down to that.
+
+Edgeworth: Now, [#p200]with that out of the way.
+We can [#/b]confidently declare [/#]that Mr. Kirskis does still have [#/c8ecf90]pirate tendencies[/#]...
+he may very well be showcasing [#/cff0000]at the moment of the crime[/#].[#bgs9]
+
+HOLD IT!
+Phoenix: Hold it right there, [#p200]Edgeworth.
+What is your argument here?
+Are you seriously comparing [#/b]cheating on an exam[/#] to committing [#fm][#sm][#bgs24][#/r]full-scale arson[/#]?
+
+OBJECTION!
+Edgeworth: No... [#p200][#/g]that's not it[/#],[#p200] Mr. Wright.
+Just ponder for a bit...
+Mr. Kirskis is an[#/c96b89b] adopted pirate[/#] who has not yet [#/b]face any consequences[/#] for his actions,
+what makes you believe he wouldn't plan something [#/cff0000]this massive[/#] thinking he would [#/cfff069]do so again[/#]?[#bgs9]
+
+We already know that he [#/b]does not understand[/#] the magnitude of his mistakes...
+[#/r]committing arson[/#] is something[#/cf2ec55] nigh-impossible[/#] to do in [#/c80ffff]Cintre[/#],
+but in a world like [#/cf4b3ff]Luria[/#]...
+where he is protected by dear [#/ca2fdfd]Meritocracy[/#], [#p200]and does not fully comprehend what it means to[#/r] burn down a library[/#]...[#bgs3]
+he would think he could [#/c8cdcba]get away with it easily[/#].
+
+
