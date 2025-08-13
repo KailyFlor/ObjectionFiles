@@ -138,7 +138,7 @@ It was burning everywhere, it spread so fast we could barely react to what was g
 It was so hot in there, I swear I was feeling like I was going to melt!
 Sathki had to deactivate her Containment System to run and save everyone she could.
 Thankfully no one we know of got hurt... but it was still terrifying.
-Hemo told me to go head towards the emergency exit while he tried to find a copy of that one book he was seeking for
+Hemo told me to go head towards the emergency exit while he tried to find a copy of that one book he was seeking.
 He was pretty stubborn about it...
 Thankfully the fire wasn't hot enough to burn away my own deflectors...
 I managed to escape the fire on time... before things started to become worse there.
@@ -508,7 +508,7 @@ TAKE THAT!
 Phoenix: I didn't want to use this until later, but since you are insisting I need proof to my current claim...
 I'll gladly offer it.
 Let us remember for a moment what Ms. Aru said in her testimony:
-“Hemo told me to go head towards the emergency exit while he tried to find a copy of that one book he was seeking for.”
+“Hemo told me to go head towards the emergency exit while he tried to find a copy of that one book he was seeking.”
 “He was so shocked!!”
 
 
@@ -2726,6 +2726,8 @@ but in a world like [#/cf4b3ff]Luria[/#]...
 where he is protected by dear [#/ca2fdfd]Meritocracy[/#], [#p200]and does not fully comprehend what it means to[#/r] burn down a library[/#]...[#bgs3]
 he would think he could [#/c8cdcba]get away with it easily[/#].
 
+Phoenix: [#sm][#fm][#bgs1]Just where did you get[#/b] that one from[/#]!?
+
 HOLD IT!
 Rin Ohm: [#fm][#sm][#bgs24][#/cff0000]Do not precipitate[/#], [#p200]Mr. Edgeworth!!
 If you are arguing that [#/g]Mr. Kirskis' record[/#] of not having any [#/cffe175]consequences for his actions[/#],
@@ -2768,3 +2770,81 @@ Edgeworth: Only such an [#/b]elegant interpretation[/#] of the events could be w
 This here, [#p200]is my [#/cfaff00]ultimate theory[/#].
 
 Judge: [#bgmfo]Oh my... [#p200]what a [#/cfbff2a]turnabout[/#]!
+
+Judge: And in only one [#/cfb7a7a]cross-examination[/#] too!
+
+OBJECTION!
+Phoenix: [#bgm66]I have [#/b]no idea[/#] how you managed to[#/g] formulate such a theory[/#] in that little amount of time...
+[#ts26][#sm][#fm][#bgs24]but it doesn't come without its[#/cffe70e] plot holes[/#]!!
+
+Edgeworth: What "[#/b]plot holes[/#]", [#p200]Mr. Wright?
+I [#sm][#fm][#bgs12][#/cffdd2a]DARE [/#]you find a single one!!
+
+TAKE THAT!
+Phoenix: There is [#/g]one tiny detail[/#] you missed, [#p200]Edgeworth.
+
+[#evdi899812]If you recall [#/c73d5ac]Ms. Aru[/#]'s testimony...
+we get to note that Mr. Kirskis went to seek something [#/cfaff00]INSIDE [/#]the library after the [#/r]fire ignited[/#].[#bgs3]
+
+[#evdh]Just why would he be going inside the library...
+after burning it [#/cff0000]intentionally[/#] through a [#/b]command[/#] he prompted Trinket to execute?[#bgs3]
+It just doesn't make sense unless it was [#/b]an accident[/#]...
+since he was looking for [#/g]one book[/#] and it burned down.
+
+OBJECTION!
+Edgeworth: You think that's the case?
+[#sm][#fm][#bgs24][#/cffea31]THINK[/#] AGAIN!!
+
+[#evdi899839]Don't forget I have a report on [#/b]Trinket's memory[/#] at my disposal,
+and within it, [#p200]information about [#/ccd98ed]the book[/#] was found.[#bgs3]
+
+[#evdh]That particular book he [#/r]burned down[/#] was quite damning.
+
+Both [#/b]cameras[/#] and the information processed by the robot confirm it:
+[#evdi903806]the book was related to [#/cff0000]advanced chemical reactions[/#] associated with [#/cfac6f8]Talents[/#].[#bgs3]
+
+It was authored by [#/cff5baa]Dylian Junor[/#], a highly respected scientist and chemist, and incredible [#/b]Constructor[/#].[#bgs9]
+
+[#evdh]These types of books are only meant for [#/g]advanced chemists[/#] and [#/b]professional[/#] Talent users...
+just tell me now, [#p200]why would a simple [#/g]electric and mechanical engineer[/#] want to get information on [#/cfbf44c]sensitive intel[/#]...
+about[#/cff0000] potentially dangerous reactions[/#] especially related to Talents?[#bgs3]
+It was authored by [#/cff5baa]Dylian Junor[/#], a highly respected scientist and chemist, and incredible [#/b]Constructor[/#].[#bgs9]
+
+[#evdh]These types of books are only meant for [#/g]advanced chemists[/#] and [#/b]professional[/#] Talent users.
+just tell me now, [#p200]why would a non-Talent [#/g]electric and mechanical engineer[/#] want to get information on [#/cfbf44c]sensitive intel[/#]...
+about[#/cff0000] potentially dangerous reactions[/#] specifically related to Talents?[#bgs3]
+
+This is what made me be [#/ce9ec69]so sure [/#]of his role as a pirate [#/c97ba8e]spy[/#],
+it is[#/caf88e0] way too suspicious[/#] to be getting information on [#/cfa3939]such reactions[/#], [#p200]when they can easily be used for [#sm][#fm][#bgs15][#/r]malice[/#]. 
+
+OBJECTION!
+Phoenix: Edgeworth, [#p200]you[#/b] haven't answered[/#] my question.
+[#ts26][#sm][#fm][#bgs24]Why would he go inside again[#/r] after the fire started[/#]!?
+
+Edgeworth: That is the[#/g] easy part[/#].[#bgs9]
+After getting the information on [#/g]what he wanted to get[/#]...
+and [#/cff0000]spreading the fire[/#] to cover his tracks...
+he would forget about a [#/c60ecca]second book[/#] he wanted to [#/cabc1d1]extract information from[/#].[#bgs3]
+
+Just remember what Ms. Aru said:
+
+"[#ts26][#bgs123114][#/g]Hemo told me to go head[/#] [#bgs123156][#/g]towards the emergency exit while he tried to find a copy of that one book he was seeking. [/#]"
+
+Edgeworth: "[#/b]A copy of that one book[/#]" is a lie created on the fly, [#p200]which projects on his true intentions at that moment:
+getting his hands on [#/g] another book[/#] he forgot he wanted to [#/r]track down[/#].[#bgs3]
+That's why he went near the [#/b]Utility Room[/#] again, [#p200]the section he got Junor's book from [#/cfff623]was nearby[/#].
+
+OBJECTION!
+Phoenix: Why would he be looking for [#/g]another book[/#] after he allegedly burned down the library for the [#/cb678dc]first book[/#]?
+[#ts26][#sm][#fm][#bgs24]It [#/cfff500]DOESN'T [/#]make any sense!!
+
+TAKE THAT!
+Edgeworth: Let's remember that his idea for[#/cff0000] burning down the library[/#] is [#/b]spontaneous[/#].[#bgs3]
+At the[#/r] heat of the moment[/#], [#p200]he simply slipped up,
+and when the [#/cff0000]fire spread[/#]...
+it was already [#/b]too late[/#].
+
+...
+
+OBJECTION!
+Rin Ohm: [#bgm12]Mr. Edgeworth, [#p200]you [#bgs24][#fl][#sl][#/cff0000]DIDN'T[/#] retail this hypothesis of yours to me.
