@@ -85,8 +85,13 @@ Mr. Wright?
 
 Phoenix: Yes, of course, Your Honor.
 
+I would like to call the Ms. Aru to the stand for giving her testimony.
 
-I would like to call our first witness to the stand for giving their testimony.
+Edgeworth: Hmph... [#p300]delay this all you want.
+the result will be the same.
+I [#/g]concede[/#], [#p200]Your Honor.
+
+
 Judge: Understood. You may now come in, Ms. Aru.
 
 
@@ -2833,7 +2838,9 @@ Just remember what Ms. Aru said:
 
 Edgeworth: "[#/b]A copy of that one book[/#]" is a lie created on the fly, [#p200]which projects on his true intentions at that moment:
 getting his hands on [#/g] another book[/#] he forgot he wanted to [#/r]track down[/#].[#bgs3]
-That's why he went near the [#/b]Utility Room[/#] again, [#p200]the section he got Junor's book from [#/cfff623]was nearby[/#].
+That's why he went near the [#/b]Utility Room[/#] again, [#p200]the section he got Junor's book from [#/cfff623]was nearby[/#],
+which would be perfect for later on [#/cff0000]attempting to steal[/#] the camera footage,
+so that police [#/r]doesn't even have an opportunity[/#] to get it.
 
 OBJECTION!
 Phoenix: Why would he be looking for [#/g]another book[/#] after he allegedly burned down the library for the [#/cb678dc]first book[/#]?
@@ -2919,3 +2926,84 @@ He could perfectly want to rescue[#/g] some additional information[/#] before th
 OBJECTION!
 Edgeworth: [#bgs2][#fl][#sl]It is still[#/cff0000] very dangerous[/#] for him to stay in there!!
 [#ts25]THE LIBRARY [#bgs24][#fl][#sl][#/cffe500]WAS COLLAPSING[/#]!!
+
+OBJECTION!
+Phoenix: The library took [#/r]up to an hour[/#] for the building to start collapsing!!
+
+All points towards what [#/cfea2a2]Ms. Rin Ohm[/#] said...
+for a normal [#/ceabbf2]Lurian[/#]... [#p300]even including [#/c88eee8]Shielders[/#],
+it would be unthinkable to stay on a [#/r]burning library[/#].[#bgs3]
+
+But for someone with [#/b]Essence Conversion[/#] technology...
+[#fm][#sm][#bgs24][#ts25]they could even [#/cffec42]ATTEMPT [/#]to try to[#/ca0d2d5] fix the problem [/#]themselves!!
+
+OBJECTION!
+Edgeworth: [#bgs2][#fl][#sl][#p600][#bgs2][#fl][#sl]That just [#/cf2f626]CANNOT BE TRUE[/#]!!
+If that were to be correct and all of this was [#/cffe819]simply accidental[/#]...
+[#ts25][#bgs12][#fl][#sl]THEN WHO TURNED OFF THOSE SPRINKLERS AND [#/cff0000]WHY[/#]!??
+
+Phoenix: ...!
+
+Rin Ohm: ...
+
+Edgeworth: We have to take something [#/b]very important[/#] into account here,
+[#/cf7a4a4]Ms. Rin Ohm[/#], [#p200][#/b]Mr. Wright[/#]...
+this is case is far from [#/cffee5a]being resolved[/#].
+
+[#evdi899957]If you may remember from[#/b] our previous trial session[/#]...
+there were [#/g]twelve people[/#] that [#/cfbff46]Sathki Naeru[/#] rescued.
+From this people... [#p200]Mr. Wright suggested that [#fm][#sm][#bgs15][#/cff0000]someone might have the animosity[/#] necessary... 
+to purposefully[#/r] sabotage[/#] those sprinklers that day.[#bgs3]
+
+[#evdh]Now, [#p200]I know what you may say...
+that this just relieves Mr. Kirskis from [#/r]all possible intent[/#]. 
+
+[#sm][#fm][#bgs24][#/cffdf37]INCORRECT[/#]!!
+
+Here lies a[#/b] crucial problem[/#] if there were to be[#/g] no intent[/#] from Mr. Kirskis' part:
+[#/cffe500]why[/#] did they[#/r] deactivate the sprinklers[/#]?[#bgs3]
+
+This seems to suggest that they [#fm][#sm][#bgs15][#/cffd600]KNEW [/#]that Mr. Kirskis would [#/cff0000]burn [/#]something up on purpose...
+so they [#/b]set him up[/#] to [#/r]propagate the flames[/#].[#bgs9]
+
+Or did they?
+
+What if we make the hypothesis that this [#/g]second person[/#] is [#/cfbff43]an accomplice[/#].[#bgs3]
+I know you may be tempted to think that Mr. Kirskis [#/r]doesn't have a motive[/#]...
+but how can we even argue that if [#/b]we don't know the full story[/#]?[#bgs9]
+
+There might be a [#/cff0000]grander motive[/#] that these two have formulated...
+that convinced even the "[#/g]friendly and loyal[/#]" Mr. Kirskis...
+to commit such an atrocious [#/cff0000]crime[/#].
+
+Rin Ohm: [#ts109]Hrm...
+[#ts60]An[#/cfff50c] accomplice[/#]...
+I suggest that might fit [#/r]Azar Hikami[/#]'s behavior.[#bgs3]
+
+Keithra: [#fm][#sm][#bgs24]WHAT!!???
+
+OBJECTION!
+Phoenix: [#ts25]What point are you making, [#fm][#sm][#bgs24][#p200][#/cffb5b5]Ms. Rin Ohm[/#]!?
+
+Rin Ohm: Don't you remember what you cross-examined the[#/b] first session[/#]?
+
+[#evdi899947]Mr. Hikami escaped the fire before it even began...
+he had [#/cff0000]no reason [/#]to leave beforehand,
+and Ms. Aru testified that he was behaving as if he knew what [#/b]was going to happen[/#] it advance.[#bgs3]
+
+[#evdh]If we consider that his physical condition [#/r]does not permit him to run[/#]...
+[#fm][#sm][#bgs24]it's[#/cfbff2a] logical to conclude[/#] he had to do with all of this!!
+
+OBJECTION!
+Neia: [#fm][#sm][#bgs2][#p400][#/cff9e9e]RIN[/#], [#ts26][#p500][#fm][#sm][#bgs24][#/cff0000]YOU [/#]CAN'T BE SERIOUSLY THROWING [#/r]AZAR[/#] INTO THIS!!
+[#fm][#sm][#bgs12]HE WOULD [#/cff0000]NEVER [/#]PLAN AN [#/cff9900]ARSON [/#]LIKE THIS!!
+
+OBJECTION!
+Rin Ohm: [#ts44]The [#fm][#sm][#bgs15][#/b]FACTS [/#]are the [#fm][#sm][#bgs24][#/cfaff00]FACTS[/#],
+[#ts30]and his behavior was [#fm][#sm][#bgs24][#/cff0000]SUSPICIOUS [/#]from the get go!!
+
+This cannot [#/g]be left unresolved[/#] like this.
+[#/r]Mr. Hikami [/#]is one of [#/b]Mr. Wright witnesses[/#]...[#bgs3]
+
+[#bgs24][#sm][#fm]As a [#/cffe2aa]Jusnean accountant [/#]on this trial...
+[#ts26][#bgs12][#sm][#fm]I give my [#/cff0000]explicit word[/#] to demand calling [#/r]Mr. Hikami[/#] to the stand!!
