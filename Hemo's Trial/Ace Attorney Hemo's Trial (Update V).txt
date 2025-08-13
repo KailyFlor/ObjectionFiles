@@ -2746,8 +2746,9 @@ don't you think he wouldn't [#/r]burn it down[/#] to make it seem like it was [#
 He [#/r]wasn't supposed[/#] to get his hands on that book...
 so after getting the [#/b]knowledge he needed[/#], [#p200]he destroyed it so that [#/cffe70f]anyone[/#] wouldn't know what he was seeking.[#bgs3]
 
-Mr. Wright, [#p200]when you debunked my [#/g]previous assumption[/#] that Mr. Kirskis [#/r]didn't turn off[/#] the sprinklers...
-that [#/cffd644]got me thinking[/#]:
+[#/b]Ms. Kas Omou[/#], [#p200]when you debunked my [#/g]previous analysis[/#]of the blueprints...
+that [#/b]Trinket[/#] couldn't serve as a puppet,
+it [#/cffd644]got me thinking[/#]:
 if [#/b]Trinket [/#]wasn't a robot he could [#/cffe142]control remotely[/#]...
 how would he commit the [#/cff0000]crime[/#]?[#bgs3]
 
@@ -2847,4 +2848,74 @@ it was already [#/b]too late[/#].
 ...
 
 OBJECTION!
-Rin Ohm: [#bgm12]Mr. Edgeworth, [#p200]you [#bgs24][#fl][#sl][#/cff0000]DIDN'T[/#] retail this hypothesis of yours to me.
+Rin Ohm: [#bgm12][#ts27]Mr. Edgeworth, [#p200]you [#bgs24][#fl][#sl][#/cff0000]DIDN'T [/#]retail this [#/g]hypothesis [/#]of yours to me.[#bgs3]
+It doesn't even have [#bgs15][#fm][#sm][#/r]an once[/#] of logical consistency,
+[#bgs12][#fl][#sl][#/cff0000]YOU[/#] are now the one overstretching [#bgs24][#fl][#sl][#/cfff500]YOUR [/#]case to benefit [#bgs15][#fl][#sl][#/cff0000]YOUR[/#] agenda!!
+
+Edgeworth: WHAT!?? [#p300]What are you [#/cffe500]TALKING [/#]about!??
+WE [#bgs24][#fl][#sl][#/b]DISCUSSED[/#] ABOUT THIS!!
+
+OBJECTION!
+Rin Ohm: [#ts26]We [#bgs24][#fl][#sl][#/cff0000]DIDN'T [/#]talk about this...
+in a way that would[#/cb186db] put the book[/#] that Mr. Kirskis was reading as a potential [#/r]proof of his malice[/#]!![#bgs9]
+
+FLASHBACK TO AFTER EDGEWORTH AND RIN OHM TALKED IN THE PROSECUTION LOBBY
+
+Rin Ohm: I would advice you to maintain [#/g]all of your previous charges[/#].[#bgs3]
+I wouldn't say it is wise to add [#/r]Information Theft[/#] and [#/r]Evidence Tampering[/#] without [#/b]proper evidence[/#].
+
+But as long as you remain consistent with your [#/cfff73c]current narrative[/#]...
+before anything has been [#/r]proven [/#]or [#/g]disproven [/#]wrong...
+by[#/c98ffff] Cintrean protocol[/#], [#p200]you still can easily press against [#/b]Mr. Wright's uncommon strategies[/#].[#bgs9]
+
+END OF FLASHBACK
+
+Rin Ohm: The contents of the book may be [#/cff0000]controversial[/#], [#p200]yes.
+But you are failing to take into account a very [#/b]simple [/#]and [#/g]easy [/#]innocent explanation...
+as to why Mr. Kirskis would be looking [#/cfee820]for such topics[/#].[#bgs3]
+
+Consider that [#/c76aee1]chemistry[/#]...
+is one of the majors of one of Mr. Kirskis' [#/cffde30]known coworkers[/#] within the group:
+[#evdi903901][#/g]Goura Honut[/#], [#p200]the chemist and minerologist.[#bgs9]
+
+
+HOLD IT!
+Neia: [#evdh][#p400]OH!! [#p300]BUT[#/cffea2f] OF COURSE[/#]!!
+Hemo could [#/b]perfectly be seeking[/#] for something that Goura needed for[#/g] his experiments[/#]![#bgs3]
+And since we consider that he was[#/g] very intrigued[/#] by how [#/cf5c5f9]Talents interacted[/#] with his research...
+he could [#/g]naturally[/#] be searching [#/b]a book for him[/#]!![#bgs9]
+
+Rin Ohm: I acknowledge that this paints Mr. Kirskis in a [#/cffe500]positive light[/#]...
+just like how [#/b]Mr. Wright[/#] was attempting to do so[#/g] at the beginning [/#]of this trial.
+
+However, [#p200]truth to the matter...
+it's been confirmed that the [#/c98b49b]pirate background justification[/#] you posed to me initially...
+[#/cea6b6b]has fallen apart[/#] completely.[#fm][#sm][#bgs1]
+
+And while [#/cb9ffff]the archives [/#]reveal that he is a [#/r]rule-breaker[/#]...
+he never has shown to be a [#/g]bad or illoyal friend[/#], [#p200]even if it may be with [#/cff0000]potential ulterior motives[/#].[#bgs3]
+
+You said it[#/cf89f9f] yourself [/#]a while ago...
+currently it is[#/cffec40] far more probable[/#] that if he is guilty of something...
+it is based on [#/r]Reckless Endangerment[/#] only.[#bgs9]
+
+Keithra: ...!!
+Rin!!
+
+Phoenix: What did I tell you, Ms. Rin Ohm?
+
+OBJECTION!
+Edgeworth: [#bgm12]I will [#fm][#sm][#bgs24][#/cff0000]NOT [/#] let those charges go!!
+You haven't disproven anything related to my[#/g] second book[/#] theory!![#bgs3]
+
+Rin Ohm: Oh that?
+The[#/b] very same premise[/#] can be used if we consider he was [#/cf3df2d]panicking[/#]...
+and wanted to at least [#/g]help a friend[/#].[#bgs9]
+
+Mr. Kirskis has [#/b]Essence Level 26[/#].
+While is it not very high, [#p200]it is more than enough for[#/r] withstanding the heat [/#]of a[#/cff0000] library burning down[/#].[#bgs3]
+He could perfectly want to rescue[#/g] some additional information[/#] before the library burns away.
+
+OBJECTION!
+Edgeworth: [#bgs2][#fl][#sl]It is still[#/cff0000] very dangerous[/#] for him to stay in there!!
+[#ts25]THE LIBRARY [#bgs24][#fl][#sl][#/cffe500]WAS COLLAPSING[/#]!!
