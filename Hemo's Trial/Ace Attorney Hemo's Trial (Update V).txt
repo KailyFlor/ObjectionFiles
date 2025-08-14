@@ -3063,8 +3063,8 @@ Azar: [#p500][#ts45]Sup.
 Judge: [#p200]Thank you for coming in.
 Can you please present yourself to the court?
 
-Azar: Azar Hikami, local [#p200][#/r]top-dog[/#] spaceman albino most wanted in town.
-Also Wega's [#/cff0000]worst personal nightmare[/#] for social experimentation.[#bgs3]
+Azar: Azar Hikami, [#p200]local [#/r]top-dog[/#] spaceman albino, [#p200][#/g]most wanted[/#] in town.
+Also Wega's [#/cff0000]worst personal nightmare[/#] via social experimentation.[#bgs3]
 What can I do for ya'?
 
 Judge: (What an odd way to introduce yourself...)[#ss][#bgs1]
@@ -3087,8 +3087,93 @@ I can see it coming [#/cfff616]a mile away[/#].
 But well, [#p200]it is what it is.
 
 I know what you are going to say next,
-you want me to [#/c48fff4]testify[/#] what I was doing that day for [#/cff5c5c]cross-examination[/#], [#p200]eeh?[#bgs3]
-[#fs][#ss][#bgs15]You are going to [#/cff0000]twist this [/#]so hard...[#bgs1]
+you want me to [#/c48fff4]testify[/#] what I was doing that day for [#/cff5c5c]cross-examination[/#] eh?[#bgs3]
+[#fs][#ss][#bgs15]They are going to [#/cff0000]twist this [/#]so hard...[#bgs1]
 No matter, [#p200]tell your prosecution [#/g]I am ready[/#] then.[#bgs9]
 
 Judge: Hmm... [#p200]very well.
+Mr. Edgeworth?
+
+Edgeworth: Please, [#p200]begin with your testimony.
+
+WITNESS TESTIMONY: AZAR HIKAMI
+
+Azar: [#p300][#bgm4490][#p500]So, [#p300]we all know pirate's[#/r] biggest humiliation yet[/#] happened at around noon on [#/cffec3f]March 3rd[/#].
+That day, [#p200]we were all visiting to that [#/b]old ass library[/#] to [#/g]get some knowledge[/#] or whatever.
+
+[#bgs124237]The four of us, [#p200] along with [#/b]his pet[/#], [#p200] we[#bgs124235]nt there before everyone[#bgs124236] else had arrived[#/r] early in the morning[/#],
+reason was cuz' we knew [#/cfabdff]Lurian traffic[/#] was a [#/cff0000]pain in the rear[/#].
+
+He and I were [#/cffec3f]wandering off[/#] for a [#bgs124241]while.
+Not that we were looking [#/b]something in concrete[/#],[#bgs3]
+it was more that we've got [#/r]something in our hands[/#] back then,
+something that[#/g] we knew[/#] sooner or later was going to be [#/b]matter of news[/#]...
+
+What did I spend [#/cfff620]doing after[/#]?
+Checking up on some of those [#/r]antiquated archives[/#], [#p200]that's what.[#bgs9]
+
+The library was [#/g]getting buzzy[/#] fast,
+ so after engulfing [#/b]nine or ten[/#] of those...
+I got bored of all the noise.
+
+When the [#/cff0000]entire the happened[/#], [#p200]I was[#/cffec40] already outside of it[/#].[#bgs3]
+The fire [#/r]spread quite quickly[/#], [#p200]I was [#/g]lucky to be outside[/#].
+[#/b]Not even I anticipated[/#] something like that would happen that day,
+even though I knew that there were [#/r]some risks involved[/#].
+
+And that's what I was doing, [#p200]
+just chilling... [#p200][#/b]reviewing some books[/#], [#p200]for the most part.[#bgs9]
+
+Wondering already how you are going to [#/cff0000]twist that[/#].
+
+Judge: Very well, [#p200]Mr. Edgeworth, [#p200]the floor is yours.
+
+Edgeworth: Of course, [#p200]Your Honor.
+
+Phoenix: [#/b]Keit[/#], [#p200]is he trying to[#/r] make himself suspicious[/#] on purpose?
+
+Keit: [#ts50]Hehehe...
+Just leave him be, [#p200]Mr. Wright...
+
+CROSS-EXAMINATION (AZAR: PHASE I)
+
+"[#/g]So,[/#] [#p200][#/g]we all know pirate's biggest humiliation yet happened at around noon on March 3rd.[/#]"
+
+HOLD IT!
+Edgeworth: [#/r]Mr. Hikami[/#], [#p200]what do you mean by the "[#/b]pirate's biggest humiliation[/#]"?
+That is [#/g]very specific way[/#] of wording things...
+[#fm][#sm][#bgs24][#/cfff500]EXPLAIN YOURSELF[/#]!!
+
+Azar: Heh, [#p200]but of course you'd ask.[#bgs3]
+
+Say, [#p200][#/cff8080]Mr. Prosecutor[/#]...
+what exactly [#/b]did you guys discuss[/#] while I wasn't here?
+Was it something[#/g] particularly otherworldly[/#]?[#bgs9]
+
+OBJECTION!
+Edgeworth: [#fm][#sm][#bgs15][#/cfff856]Just answer the question[/#]!!
+
+Azar: No, [#p200]you answer this question:
+what does a pirate do, [#p200]if [#/cfbff3e]his ship trials off[/#] beyond [#/b]the horizon[/#]?[#bgs3]
+
+Edgeworth: Just what could that [#fm][#sm][#bgs15][#/cf8e644]POSSIBLY[/#] mean?
+
+Azar: Are you not going to use [#/b]your brain cells[/#]?
+Or did all of [#/g]that flourish[/#] went [#fm][#sm][#bgs15][#/r]below your neck[/#]?
+
+Edgeworth: [#bgs24][#sm][#fm][#/cff0000]Stop deviating[/#] from-[#p100]
+
+Azar: Oh, [#p200][#/cff9595]deviating[/#]?
+Do you seriously think[#/b] this is deviating[/#]?
+
+[#tbs231][#ts75][#/r]Hah[/#]!
+Then this is far [#/cff0000]worse than I thought[/#].[#fm][#sm][#bgs1]
+
+According to your own [#/cffb2e9]Lurian folk culture[/#],
+a pirate's biggest pride [#/g]his ship and its crew[/#].
+
+Treason is considered to be[#/cff0000] punished by death[/#]...
+yet when ship sails away they [#/r]enter in dismay[/#].[#bgs3]
+
+Since what is [#/cffea2b]pirate without piracy[/#] one might say out loud,
+even when at the end [#/g]a ship is always found[/#].[#bgs9]
