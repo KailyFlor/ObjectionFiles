@@ -3007,3 +3007,51 @@ This cannot [#/g]be left unresolved[/#] like this.
 
 [#bgs24][#sm][#fm]As a [#/cffe2aa]Jusnean accountant [/#]on this trial...
 [#ts26][#bgs12][#sm][#fm]I give my [#/cff0000]explicit word[/#] to demand calling [#/r]Mr. Hikami[/#] to the stand!!
+
+...
+
+GAVEL SLAM x3
+Judge: [#bgm80][#p400]I align with [#/cff5a5a]Ms. Rin Ohm's authority[/#] on this matter,
+if there is a [#/b]reason [/#]to believe that [#/r]Mr. Azar Hikami[/#] is the key...
+ to reveal a [#/cfaff00]possible accomplice[/#] to this [#fm][#sm][#bgs15][#/cff0000]hideous alleged crime[/#]...
+then it [#/g]shall be done[/#] that way.[#bgs9]
+
+Mr. Edgeworth, [#p200]do you agree with halting your[#/cff7272] cross-examination[/#]?
+
+Edgeworth: Yes, [#p200]Your Honor.
+It would be my pleasure to [#/cff6565]cross-examine[/#] Mr. Hikami next.
+
+Phoenix: Your Honor, [#p200]I am[#/g] certain[/#] that even with [#/c77eeb5]Ms. Aru's testimony[/#],
+Mr. Hikami doesn't have[#/cff0000] anything to do[/#] with this incident.
+
+Keithra: [#ts200]...
+
+Neia: [#ts200]...
+
+Phoenix: However, [#p200]I acknowledge that [#/c78fbbc]her words [/#]cast a shadow of doubt on his account.[#bgs3]
+I agree with[#/r] calling him [/#]to testify.[#bgs9]
+
+Judge: Very well, [#p200]then it's been decided.
+We will be calling [#/r]Mar. Hikami[/#] to testify for us on the stand.
+
+GABEL SLAM
+Judge: [#/cd7c2ae]Ms. Amaritan[/#], [#p200]thank you for your testimony.
+You may leave the courtroom now.
+
+Neia: [#ts200]...
+Understood, [#p200]Your Honor.
+[#/b]Keit[/#], [#p200]Mr. Wright, [#p200]good luck over there.
+
+Phoenix: Don't mention it.
+
+Keithra: Thanks Neia, [#p200]you did us [#/g]a great favor[/#]...
+
+Neia: Of course... [#p200][#/g]I did what I could[/#].[#bgs9]
+Bye-bye.
+
+Neia leaves the courtroom
+
+Judge: (I can feel we are heading closer[#/cffe500] to the heart of this case[/#]...)
+[#ts26][#fl][#sl][#bgs12]BAILIFF, [#p200]BRING MR. HIKAMI HERE IMMEDIATELY!!
+
+Bailiff: [#sl]ON IT, [#p200]YOUR HONOR!!
