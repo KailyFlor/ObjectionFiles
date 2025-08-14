@@ -2855,7 +2855,7 @@ it was already [#/b]too late[/#].
 ...
 
 OBJECTION!
-Rin Ohm: [#bgm12][#ts27]Mr. Edgeworth, [#p200]you [#bgs24][#fl][#sl][#/cff0000]DIDN'T [/#]retail this [#/g]hypothesis [/#]of yours to me.[#bgs3]
+Rin Ohm: [#bgm12][#ts27]Mr. Edgeworth, [#p200]you [#bgs24][#fl][#sl][#/cff0000]DIDN'T [/#]relay this [#/g]hypothesis [/#]of yours to me.[#bgs3]
 It doesn't even have [#bgs15][#fm][#sm][#/r]an once[/#] of logical consistency,
 [#bgs12][#fl][#sl][#/cff0000]YOU[/#] are now the one overstretching [#bgs24][#fl][#sl][#/cfff500]YOUR [/#]case to benefit [#bgs15][#fl][#sl][#/cff0000]YOUR[/#] agenda!!
 
@@ -3055,3 +3055,40 @@ Judge: (I can feel we are heading closer[#/cffe500] to the heart of this case[/#
 [#ts26][#fl][#sl][#bgs12]BAILIFF, [#p200]BRING MR. HIKAMI HERE IMMEDIATELY!!
 
 Bailiff: [#sl]ON IT, [#p200]YOUR HONOR!!
+
+Azar enters the courtroom
+
+Azar: [#p500][#ts45]Sup.
+
+Judge: [#p200]Thank you for coming in.
+Can you please present yourself to the court?
+
+Azar: Azar Hikami, local [#p200][#/r]top-dog[/#] spaceman albino most wanted in town.
+Also Wega's [#/cff0000]worst personal nightmare[/#] for social experimentation.[#bgs3]
+What can I do for ya'?
+
+Judge: (What an odd way to introduce yourself...)[#ss][#bgs1]
+Mr. Hikami, [#p200]we called you here because we need you to answer [#/b]some important questions[/#] regarding our case...
+
+Azar: Yup.[#p300] Realized as much.
+Seems you [#/r]cannot[/#] figure this one out yet.[#bgs9]
+
+It's [#/c8f85fb]quite sad[/#] honestly, [#p200]but oh well.
+Why not enjoy it while it lasts?[#bgs3]
+
+Rin Ohm: [#ts70]Hmph...
+
+Judge: Mr. Hikami, [#p200]are you implying[#/cffe91e] you already know[/#] how this case is going to end?
+
+Azar: Pfff, [#p200]knew it [#/g]ages ago[/#].[#bgs3]
+This is just going to be an [#/b]obnoxious pinball game[/#],
+I can see it coming [#/cfff616]a mile away[/#].
+
+But well, [#p200]it is what it is.
+
+I know what you are going to say next,
+you want me to [#/c48fff4]testify[/#] what I was doing that day for [#/cff5c5c]cross-examination[/#], [#p200]eeh?[#bgs3]
+[#fs][#ss][#bgs15]You are going to [#/cff0000]twist this [/#]so hard...[#bgs1]
+No matter, [#p200]tell your prosecution [#/g]I am ready[/#] then.[#bgs9]
+
+Judge: Hmm... [#p200]very well.
