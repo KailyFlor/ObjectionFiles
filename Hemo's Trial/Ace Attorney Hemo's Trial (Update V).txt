@@ -2809,12 +2809,11 @@ and within it, [#p200]information about [#/ccd98ed]the book[/#] was found.[#bgs3
 Both [#/b]cameras[/#] and the information processed by the robot confirm it:
 [#evdi903806]the book was related to [#/cff0000]advanced chemical reactions[/#] associated with [#/cfac6f8]Talents[/#].[#bgs3]
 
-It was authored by [#/cff5baa]Dylian Junor[/#], a highly respected scientist and chemist, and incredible [#/b]Constructor[/#].[#bgs9]
+It was authored by [#/cff5baa]Dylian Yunor[/#], a highly respected scientist and chemist, and incredible [#/b]Constructor[/#].[#bgs9]
 
 [#evdh]These types of books are only meant for [#/g]advanced chemists[/#] and [#/b]professional[/#] Talent users...
 just tell me now, [#p200]why would a simple [#/g]electric and mechanical engineer[/#] want to get information on [#/cfbf44c]sensitive intel[/#]...
 about[#/cff0000] potentially dangerous reactions[/#] especially related to Talents?[#bgs3]
-It was authored by [#/cff5baa]Dylian Junor[/#], a highly respected scientist and chemist, and incredible [#/b]Constructor[/#].[#bgs9]
 
 [#evdh]These types of books are only meant for [#/g]advanced chemists[/#] and [#/b]professional[/#] Talent users.
 just tell me now, [#p200]why would a non-Talent [#/g]electric and mechanical engineer[/#] want to get information on [#/cfbf44c]sensitive intel[/#]...
@@ -2838,7 +2837,7 @@ Just remember what Ms. Aru said:
 
 Edgeworth: "[#/b]A copy of that one book[/#]" is a lie created on the fly, [#p200]which projects on his true intentions at that moment:
 getting his hands on [#/g] another book[/#] he forgot he wanted to [#/r]track down[/#].[#bgs3]
-That's why he went near the [#/b]Utility Room[/#] again, [#p200]the section he got Junor's book from [#/cfff623]was nearby[/#],
+That's why he went near the [#/b]Utility Room[/#] again, [#p200]the section he got Yunor's book from [#/cfff623]was nearby[/#],
 which would be perfect for later on [#/cff0000]attempting to steal[/#] the camera footage,
 so that police [#/r]doesn't even have an opportunity[/#] to get it.
 
@@ -3239,9 +3238,9 @@ and explaining just what[#/r] you told me[/#] to explain.[#bgs9]
 
 OBJECTION!
 Phoenix: [#fm][#sm][#bgs1]Mr. Hikami, [#p200]please, [#p200]you are [#/r]making me look bad[/#] here.
-Could you please just[#/g] translate this for us[/#]?[#bgs3]
+Could you do us a favor and [#/g] translate this for us[/#]?[#bgs3]
 
-Keithra: Yeah, [#p200]Azar.
+Keithra: Yeah... [#p200]Azar...
 Please collaborate...
 
 Azar: Okay... [#p200]fine...
@@ -3259,7 +3258,7 @@ if that is the case, [#p200]then I must inquire:
 That wording indicates there was something[#/cfc0202] to be humiliated for[/#].
 
 Azar: Must I be your [#/g]grandma [/#]and [#/b]spell this out for you[/#]?
-You are taking [#/cfaff26]pretty simple nomenclature[/#] to its most literal form.
+You are taking [#/cfaff26]pretty simple nomenclature[/#] to its most literal interpretation.
 We are here indulging ourselves in[#/b] fourth dimensional chess[/#]...
 while you are still stuck [#/r]on your old two-dimensional board[/#].[#bgs9]
 
@@ -3278,3 +3277,99 @@ Rin Ohm: [#tbs131][#ts46]IT'S BEEN [#fl][#sl][#bgs24][#ts25][#/cff0000]ENOUGH[/#
 
 Edgeworth: [#ts200]...
 Agreed... [#p200]that I'll do.
+
+CROSS-EXAMINATION (AZAR HIKAMI: PHASE II)
+
+"[#/g]The four of us,[/#][#bgs124235] [#p200][#/g]along with his pet,[/#] [#p200] [#/g]went there before everyone else had arrived early in the morning,[/#]"
+"[#/g]reason was cuz' we knew Lurian traffic was a pain in the rear.[/#]"
+
+OBJECTION!
+Edgeworth: [#/r]Mr. Hikami[/#]!!
+
+While the library is located within the [#/b]district of Wega[/#], [#p200]a district of[#/cfff6a6] Ecuia City[/#].[#bgs9]
+[#ts26][#sm][#fm][#bgs24]Why [#/r]would you even care[/#] for the traffic leading to it!?
+
+Your [#/c9affff]residency pots[/#] located in Myna, [#p200]are [#/cff0000]at most[/#] thirty minutes away from its location,
+it would take no more than[#/g] six bus stops[/#] to get there on regular schedule.[#bgs3]
+
+There [#sm][#fm][#bgs24][#/cffea2f]HAS[/#] to be another reason you [#/g]went there that early[/#]!!
+
+OBJECTION!
+Azar: Nah, [#p200]you[#/b] must be hallucinating things[/#].
+Do you [#/g]smoke weed[/#], [#p200]or did your [#/r]tobacco enthusiasm[/#] get to your brain like [#/cfcff5e]how it happens to my principal[/#]?[#bgs3]
+
+OBJECTION!
+Edgeworth: [#sm][#fm][#bgs24]I AM NOT HALLUCINA-![#p200]
+
+Azar: Dude, [#p200]chill out.
+We all know you are so encapsulated by your [#/b]illusion of logical framework[/#],
+that you make believe that buses[#/g] always arrive on time[/#].[#bgs9]
+
+OBJECTION!
+Edgeworth: [#ts25][#sm][#fm][#bgs24]That [#/b]doesn't solve anything [/#]for you!!
+Buses [#/cfbff2d]leading towards the library[/#] in Wega are recurrent,
+and there are[#/cff7a7a] several bus lines[/#] that lead towards the same place.[#bgs3]
+[#sm][#fm][#bgs24]You can[#/g] easily[/#] take [#/b]another bus[/#] to arrive there!!
+
+OBJECTION!
+Azar: Sure thing bud, [#p200]keep on dreaming.
+Do you even have [#/g]a morning schedule[/#]?[#bgs3]
+Or does your mommy [#fm][#sm][#bgs15][#/ca5a5a5]arrange that hair[/#] for you?
+
+Edgeworth: [#/g]Morning schedule[/#]?
+What are you [#sm][#fm][#bgs24][#/b]IMPLYING[/#]!?
+
+Azar: [#fm][#sm][#bgs1][#/r]Seriously[/#]?
+Its [#/b]not that deep[/#]...
+
+I told you we were there [#/g]in the morning[/#]...
+question is... [#p200][#/cfbff37]what constitutes[/#] being there "[#/g]in the morning[/#]"?[#bgs3]
+
+Edgeworth: What are you suggesting?
+That you are not utilizing a regular definition for "[#/g]morning[/#]"?
+
+Azar: You're making way too many[#/b] assumptions[/#], [#p200]my esteemed "[#/cff7c7c]flourish-man[/#]".[#bgs9]
+I have already [#/cffe03b]spilled the big the legos[/#] for ya...
+be a good toddler, [#p200]and[#/b] play with them[/#].[#bgs3]
+
+HOLD IT!
+Phoenix:  [#bgm77]So, [#p200]you are saying that [#/g]you went there in the morning[/#] because you find the[#/r] traffic on Luria annoying[/#]...
+Edgeworth is thinking that this must mean that you find [#/cff0000]traffic jams a nuisance[/#]...
+which is an [#/b]intuitive interpretation[/#]...
+but not what you are meaning.[#bgs3]
+
+If we consider that bus lines from Myna to Wega are meant to be [#/g]taken primarily by students[/#]...
+those schedules are tailored in specific to when[#/cffd912] students are going to their institutes[/#].
+
+However, [#p200]the moment of the incident[#/r] wasn't particularly on those timeframes[/#]...
+[#ts26][#sm][#fm][#bgs24]it was on a holiday, [#p200][#/b]Knowledge-Seeking's Day[/#]!!
+
+Edgeworth: [#fm][#sm][#bgs10]...!
+
+Phoenix: [#/cfeffbb]Holidays in Ecuia[/#] are considered sacred...
+since they are supposed to be moments in which [#/b]people spend time[/#] with their [#/cfbff2b]families and friends[/#],[#bgs9]
+so bus line schedules are completely different, [#p200]particularly [#/g]during the morning[/#].
+
+So if[#/r] Mr. Hikami [/#]is implying that he is using a broader definition for "[#/g]morning[/#]",
+that has a quite simple solution:[#bgs3]
+
+you took a [#/r]bus at dawn[/#], [#p200]one of the only ones available...
+so that you could have[#/cfbff2d] more of a chance to arrive[/#] to the library...
+in case the regular bus [#/r]doesn't arrive on time[/#].[#bgs9]
+
+Azar: "[#/b]Wright[/#]" you are, [#p200]Mr. [#/g]Birb[/#],
+but there is something else[#/g] you are missing[/#].
+
+Phoenix: [#fm][#sm][#bgs1]Just what did I miss?
+
+Azar: [#/cfafbc4]Wega public transportation[/#] is unlike[#/caaebff] Cintrean public transport[/#],
+it is highly inefficient, [#p200]chaotic and [#/cff1111]reliant on human error[/#].[#bgs3]
+In almost any of the [#/c54d3a5]Cintrean subcolonies[/#]...
+we would see[#/b] networks of essence lining[/#] leading to everywhere around the cities.
+
+Walking from building to building, [#p200]or even from place to place [#/g]within an infrastructure[/#]...
+is deemed a [#/r]burden [/#]and a [#fm][#sm][#bgs24][#/cff0000]waste of time[/#].
+
+So, [#p200]imagine my [#/r]disdain[/#] when I realize I have to wait up to [#/g]20 minutes to get inside a bus[/#]...
+when even with my [#/r]extremely low levelling [/#]and[#/b] stamina problems[/#],
+I could [#/b]theoretically jog[/#] the 8 kilometers necessary in [#/cffdb21]less an amount of time[/#].[#bgs9]
