@@ -37,7 +37,7 @@ Edgeworth: Naturally, Your Honor.
 What we are discussing today is the case of defendant Hemo Kirskis IV, a former Orion pirate...
 who was enrolled into the cultural exchange program managed by Wega Academy, the most culturally rich institution found in the capital of Equia, Equia City.
 The defendant is accused of committing intentional arson against a public library in the vicinity of the academy.
-Charges include First-Degree Arson, Reckless Endangerment and Destruction of Property under Equian jurisdiction.
+Charges include First-Degree Arson, Reckless Endangerment and Destruction of Property under Ecuian jurisdiction.
 Mr. Kirskis was seen carrying a robot by the name of Trinket into the library, affirming suspicions on how the fire started.
 Recordings later found that Trinket, while performing scans around in the library, initiated some kind of energy current that burned one of the many books present.
 This evidence is then fully supported by Trinket's own memory bank, which we corroborated follows the very same narrative:
@@ -3086,12 +3086,28 @@ I can see it coming [#/cfff616]a mile away[/#].
 
 But well, [#p200]it is what it is.
 
-I know what you are going to say next,
+I know exactly what you [#/b]want out of me[/#],
 you want me to [#/c48fff4]testify[/#] what I was doing that day for [#/cff5c5c]cross-examination[/#] eh?[#bgs3]
 [#fs][#ss][#bgs15]They are going to [#/cff0000]twist this [/#]so hard...[#bgs1]
 No matter, [#p200]tell your prosecution [#/g]I am ready[/#] then.[#bgs9]
 
-Judge: Hmm... [#p200]very well.
+Judge: [#ts64]Hmm...
+No, [#p200]not yet.
+
+You must first answer to me this[#/b] critical question[/#]-[#p200]
+
+Azar: [#fm][#sm][#bgs15]C'mon, [#p200]it's pretty simple...
+an [#/r]Independent Researcher[/#] just means that I do research for the [#/c45c3eb]Naori Command[/#] directly.[#bgs1]
+I am no regular [#/cfbff3f]Utam[/#], [#p200]and I don't have an [#/b]specific profession[/#]...
+but let me assure you I'd do[#/g] better[/#] than most of them [#/b]in their own field[/#] if I put my mind up to it.[#bgs3]
+
+Judge: I see...
+Well then, [#p200]are you going to promise to this court that you'll say the truth, [#p200]and only the truth?
+
+Azar: Chillax, [#p200]I don't have [#/cfbff46]any reason to lie[/#],
+I don't need to.[#bgs9]
+
+Judge: Understood...[#bgmfo]
 Mr. Edgeworth?
 
 Edgeworth: Please, [#p200]begin with your testimony.
@@ -3177,3 +3193,88 @@ yet when ship sails away they [#/r]enter in dismay[/#].[#bgs3]
 
 Since what is [#/cffea2b]pirate without piracy[/#] one might say out loud,
 even when at the end [#/g]a ship is always found[/#].[#bgs9]
+
+HOLD IT!
+Rin Ohm: [#fl][#sl][#bgs24][#/cff0000]ENOUGH [/#]OF YOUR [#/g]WORDPLAYS[/#], [#p200]AZAR HIKAMI!!
+[#ts27][#fl][#sl][#bgs12]SPEAK [#/b]CLEARLY[/#] LIKE A [#/cffe819]NORMAL PERSON[/#]!!
+
+Azar: So you don't get it either, [#p200]"[#/cff9090]Ms. Ohmnimous[/#]"?
+Are you sure [#/b]you belong[/#] here?[#bgs3]
+
+Rin Ohm: [#ts27]I'll let you know that my status as [#/cf9ef99]Jusnean accountant[/#] is...
+[#ts27][#fl][#sl][#bgs12][#/cff0000]NOT A MATTER[/#] TO CAST DOUBT UPON!!
+
+OBJECTION!
+Azar: Why would that be the case?
+You are a [#/cff9b9b]Luthnean noble[/#] who studied in [#/c99fff9]Cintre[/#] in a [#/cedc6ff]Lurian courtroom[/#],
+seems to me more than [#/b]enough of a reason[/#]...
+to be[#/r] questioning your presence[/#] in this very court.[#bgs3]
+
+OBJECTION! 
+Rin Ohm: [#fl][#sl][#bgs2]TAKE THAT BACK,
+[#ts27][#fl][#sl][#bgs24]THE [#/c86e9ff]LAW IS CLEAR[/#] WITH THE [#/cf3ff67]REGULATIO-[/#]
+
+OBJECTION!
+Azar: Regulations written by the[#/cffc267] Yuhan Authority[/#]...
+a governmental organization from a [#/cf0f33d]different spacetime continuum[/#].[#bgs3]
+We are in a [#/g]entirely different planet[/#].
+You wouldn't see [#/cff9292]Luthneans[/#] prosecuting a [#/caff5ff]Cintrean fugitive[/#] on Luthnee...
+with the presence of a [#/cfdffa2]Cintrean accountant[/#].[#bgs9]
+
+OBJECTION!
+Edgeworth: Mr. Hikami, [#p200][#/cfabaff]Lurian law[/#], [#p200]specifically [#/cfff59a]Ecuian law[/#]...
+poses that in case a tourist [#fm][#sm][#bgs15][#/cff0000]commits an infraction[/#]...
+the regulations stipulated and validated [#/b]on their own homeland[/#]...
+are fully[#/g] taken into consideration[/#].[#bgs3]
+
+Another thing that is [#/cffe24a] well-documented[/#]...
+[#fl][#sl][#bgs12][#ts24]IS THAT YOU MUST [#/cff0000]STOP MOCKING[/#] OUR [#/b]COURTROOM[/#]!!
+
+HOLD IT!
+Azar: [#bgm5351][#/g]Mocking[/#]? [#p200]I don't think I am [#/b]mocking anything[/#] here... [#p200]
+aside from your [#/cff7c7c]scrupulously crafted attire[/#], [#p200]of course.[#bgs3]
+
+I was merely [#/b]raising the questions[/#] no one dares ask...
+and explaining just what[#/r] you told me[/#] to explain.[#bgs9]
+
+OBJECTION!
+Phoenix: [#fm][#sm][#bgs1]Mr. Hikami, [#p200]please, [#p200]you are [#/r]making me look bad[/#] here.
+Could you please just[#/g] translate this for us[/#]?[#bgs3]
+
+Keithra: Yeah, [#p200]Azar.
+Please collaborate...
+
+Azar: Okay... [#p200]fine...
+Let me explain this [#/cffe664]in layman terms[/#].[#bgs9]
+
+All I am saying is that the [#/g]junk fanatic[/#] is a former pirate...
+so even outside his "[#/r]ship[/#]", [#p200]he follows the ways of the "[#/b]sea[/#]".[#bgs3]
+Thus he creates his "[#/r]very own ship[/#]" with the passing of time...
+ship which seemingly [#/b]passed horizon[/#] for him.[#bgs9]
+
+HOLD IT!
+Edgeworth: So you are saying that[#/cff0000] his humiliation[/#] is a [#/b]metaphor[/#] for his [#/r]current predicament[/#]...
+if that is the case, [#p200]then I must inquire:
+[#fm][#sm][#bgs24]just why is this a "[#/r]humiliation[/#]"?[#bgs3]
+That wording indicates there was something[#/cfc0202] to be humiliated for[/#].
+
+Azar: Must I be your [#/g]grandma [/#]and [#/b]spell this out for you[/#]?
+You are taking [#/cfaff26]pretty simple nomenclature[/#] to its most literal form.
+We are here indulging ourselves in[#/b] fourth dimensional chess[/#]...
+while you are still stuck [#/r]on your old two-dimensional board[/#].[#bgs9]
+
+Gotta [#/g]grow past that[/#] man.
+Keep up [#/g]with the times[/#].[#bgs3]
+
+OBJECTION!
+Edgeworth: [#ts25]You are being [#fm][#sm][#bgs24][#/cfbff4c]WAY [/#]too evasive for this to be merely [#fm][#sm][#bgs15][#/g]a mind game[/#] for you.
+[#ts25]There [#fm][#sm][#bgs12][#/cff0000]HAS[/#] to be a reason you are behaving like this.[#bgs9]
+[#ts25]And I [#fm][#sm][#bgs15][#/cfcff56]WILL[/#] get to the bottom of it!!
+[#fm][#sm][#bgs24][#/cff0000]YOU[/#] are not deceiving me with those [#/g]riddles of yours[/#]!!![#bgs3][#bgmfo]
+
+HOLD IT!
+Rin Ohm: [#tbs131][#ts46]IT'S BEEN [#fl][#sl][#bgs24][#ts25][#/cff0000]ENOUGH[/#]!!
+[#bgs12][#fl][#sl][#ts27][#bgs24]MR. EDGEWORTH, [#p200]UTILIZE A[#/cfaff19] DIFFERENT ANGLE[/#]!!
+
+Edgeworth: [#ts200]...
+Agreed... [#p200]that I'll do.
