@@ -55,8 +55,6 @@ Ms. Rin Ohm, do you have anything else to add?
 
 Rin Ohm: Yes, Your Honor.
 
-
-
 According to current data available on Hemo's Great Link system interface and his own academy's records...
 ...it is of my duty to inform the court that he is an individual that is known to be a trouble-maker.
 He has shown to not only manipulate the academy's official archives to his own personal gain,  but also has a history of misconduct and trouble adapting to the Meritocracy's rules.
@@ -3321,7 +3319,7 @@ Edgeworth: [#/r]Mr. Hikami[/#]!!
 While the library is located within the [#/b]district of Wega[/#], [#p200]a district of[#/cfff6a6] Ecuia City[/#].[#bgs9]
 [#ts26][#sm][#fm][#bgs24]Why [#/r]would you even care[/#] for the traffic leading to it!?
 
-Your [#/c9affff]residency pots[/#] located in Myna, [#p200]are [#/cff0000]at most[/#] thirty minutes away from its location,
+Your [#/c9affff]residency pots[/#] located in Myria, [#p200]are [#/cff0000]at most[/#] thirty minutes away from its location,
 it would take no more than[#/g] six bus stops[/#] to get there on regular schedule.[#bgs3]
 
 There [#sm][#fm][#bgs24][#/cffea2f]HAS[/#] to be another reason you [#/g]went there that early[/#]!!
@@ -3370,7 +3368,7 @@ Edgeworth is thinking that this must mean that you find [#/cff0000]traffic jams 
 which is an [#/b]intuitive interpretation[/#]...
 but not what you are meaning.[#bgs3]
 
-If we consider that bus lines from Myna to Wega are meant to be [#/g]taken primarily by students[/#]...
+If we consider that bus lines from Nyria to Wega are meant to be [#/g]taken primarily by students[/#]...
 those schedules are tailored in specific to when[#/cffd912] students are going to their institutes[/#].
 
 However, [#p200]the moment of the incident[#/r] wasn't particularly on those timeframes[/#]...
@@ -4103,7 +4101,7 @@ Edgeworth: [#bgm58][#tbs130][#ts75][#/cff0000]No[/#]...
 
 [#ts45]I know you are [#/b]hiding [/#]something,
 [#ts45]and even if my previous theory [#/r]is incorrect[/#]...
-I [#fm][#sm][#bgs2][#/cfcff54]WILL [/#]take out of you without needing [#fm][#sm][#bgs24][#/g]HIM [/#]to interfere.
+I [#fm][#sm][#bgs2][#/cfcff54]WILL [/#]take it out of you without needing [#fm][#sm][#bgs24][#/g]HIM [/#]to interfere.
 
 [#ts25][#fl][#sl][#bgs12]I [#/cff0000]OBJECT[/#] against calling the defendant to the [#/b]STAND[/#], [#p200] Your Honor!!
 
@@ -4149,3 +4147,391 @@ We will get to the bottom of this.
 Not on [#/r]Mr. Hikami[/#]'s terms...
 but on [#fl][#sl][#bgs15][#/cff8989]MY OWN[/#] terms.
 Prepare to be outplayed, [#p200]"[#/b]4D chess player[/#]".
+
+CROSS-EXAMINATION (AZAR HIKAMI: PHASE IV)
+
+"[#/g]When the entire thing happened,[/#] [#p200][#/g]I was already outside of it.[/#]"
+"[#/g]The fire spread quite quickly,[/#][#p200][#/g] I was lucky to be outside.[/#]"
+"[#/g]Not even I anticipated something like that would happen that day,[/#]"
+"[#/g]even though I knew that there were some risks involved.[/#]"
+
+Edgeworth: [#/r]Mr. Hikami[/#], [#p200]I [#/b]ask myself [/#]something here...
+what where those "[#/r]risks involved[/#]"?[#bgs3]
+
+Azar: So you [#/r]didn't overlook [/#]that...
+Congrats, [#p200]you [#/cff0000]didn't spectacularly fail[/#] the test like [#/b]I thought you did[/#].[#bgs9]
+What does[#/ceefb52] that tell you[/#]?
+
+Edgeworth: You could[#/cff0000] not have known[/#] about any risk involved [#/r]related to the incident[/#]...
+unless you had known some [#/cff0000]prior critical knowledge[/#]...
+[#ts24][#fm][#sm][#bgs24]You knew that[#/r] the fire [/#]could [#/b]potentially happen[/#]!!
+
+Rin Ohm: ...!
+
+Edgeworth: Given that [#/b]Mr. Wright[/#]'s theory relies majorly on the theory that this was[#/g] an accident[/#]...
+my question for you is this one:
+if it was [#/g]an accident[/#]...
+[#/cfff95e]HOW[/#] do you know there were "[#/r]some risks"[/#]?[#bgs3]
+
+OBJECTION!
+Phoenix: [#fm][#sm][#bgs1]Edgeworth, [#p200]it was [#/cccb69c]a library[/#].
+Libraries convey a risk of [#/r]burning down[/#]...
+
+OBJECTION!
+Edgeworth: That's what you'd think...
+but not what [#/r]Mr. Hikami[/#] would think.[#bgs9]
+
+He has shown in this [#/cffa5a5]cross-examination[/#] he has an [#/b]extremely high-level of intellect,
+and he immediately followed his admission that he "didn't foresee" the library's fire...
+with an admission that[#/b] he knew[/#] there were risks involved.[#bgs3]
+
+[#ts26][#fm][#sm][#bgs24]It's a [#/cf1e259]contradiction[/#]!!
+
+If he [#/r]didn't know about the fire[/#] in the first place and[#/cff0000] caught him off guard[/#]...
+how would he[#/cfcff6c] KNOW[/#] there were "[#/r]some risks involved[/#]".
+
+If even [#/g]a kid[/#] can deduce a library is prone to [#/cff0000]being burned down[/#]...
+he would know it by a long shot and [#fm][#sm][#bgs24][#/cff0000]NOT [/#]state something like that.
+
+Therefore, [#p200]the only[#/c94abd7] logical conclusion[/#] here is...
+he stated that the fire [#/g]caught him off guard[/#] as a [#/cff0000]deliberated lie[/#].
+
+OBJECTION!
+Azar: Ohhh... [#p200][#/cff9393]Mr. Edgyboy[/#]. 
+Why must you always arrive at the [#/cff0000]most damning conclusion[/#] every time huh?
+
+These[#/b] two statements[/#] are not [#/r]logically exclusive[/#] like you think they are...
+they are the crux of the [#/g]true nature[/#] of the "[#/cfdff95]thing[/#]" I've been talking about.[#bgs3]
+
+HOLD IT!
+Edgeworth: Why don't you [#/g]reveal it [/#]at once then?
+[#ts23][#fm][#sm][#bgs24]YOU ARE [#/cff0000]AVOIDING IT[/#] LIKE THE [#/g]PEST[/#]!!
+
+Azar: Because that would be [#/r]no fun[/#].
+You [#/cffef63]correctly deduced[/#] that this [#/b]very thing[/#] is the key to unraveling this case...
+which is why now that I know the [#/g]secret about the AEH[/#] is out...
+I wanted to have [#/g]Grasshair[/#] come to the stand to[#/b] state it to you personally[/#].[#bgs9]
+
+OBJECTION!
+Rin Ohm: You are using [#/b]words [/#]to try to distract us from the [#/cff0000]core contradiction [/#]Edgeworth revealed...
+[#/r]Mr. Hikami[/#], [#fm][#sm][#bgs24][#p200][#/r]HALT [/#]this nonsense!!
+The more you delay the "[#/b]thing[/#]" you two were doing...
+the [#fm][#sm][#bgs12][#/cff0000]MORE SUSPICIOUS[/#] you appear to be!!
+
+Azar: Don't care.
+I know how[#/g] this is going to end[/#] anyways.
+I have no reason to be worried about how I "[#/b]might appear[/#]" like you do, [#p200][#/cff9b9b]Ms. Perfection[/#].
+
+Rin Ohm: [#fm][#sm][#bgs10][#sm]Ack...![#p500]
+[#fm][#sm][#bgs12][#/cff0000]HOW DARE YOU[/#]!?
+
+HOLD IT!
+Edgeworth: [#p500][#bgm700][#/r]Mr. Hikami[/#]...
+I [#/cff0000]cannot allow [/#]you to leave the stand if you are still appearing to be[#/r] suspicious to us[/#].
+It would be simply irresponsible of me as a prosecutor.
+
+You have fully disclosed that they have a secret that appears to incriminate you...
+and your testimony holds the key to solving this case.
+
+Look, [#p200]I might appear as someone who wants to win their case at all costs...
+but the truth is, [#p200]what I care about is justice is served fairly.
+
+You are therefore in a stalemate.
+For the sake of this trial, [#p200]and the sake of your friend...
+I must politely ask you to please clear this doubt out of our minds.
+
+Phoenix: [#ts200]...
+Rin Ohm: [#ts200]...
+Keithra: [#ts200]...
+Azar: [#ts200]...
+
+So, [#p200]you finally decided to forfeit your two-dimensional game...
+and pass into the real game behind the scenes.
+Must admit, [#p200]didn't think you had it in you.
+
+I know of someone that would have that very same sense of duty...
+Someone that would appeal to both logic and sincerity...
+Someone who has followed both me and him till the very beginning...
+Someone who has attempted her very best to fight against the impossible...
+Someone who would otherwise have the same level of stubbornness and appeal for fairness as you.
+
+Edgeworth: Is that so?
+
+Phoenix: [#ts200]...
+
+Keithra: Who are you referring to Azar?
+
+Azar: To the only person that is able to obligue me to follow norms.
+
+Keithra: ...!
+[#/cf6ff94]ZINDA[/#]!?
+
+Phoenix: Zinda...?
+You are referring to the former president of the group[#/cf9fbb0] Zinda Yue[/#]?
+
+Rin Ohm: Are you inferring that this has to do with...?
+
+Azar: Connect the dots,[#p200] will you?
+
+What could [#/g]Hemo[/#] and I be possibly researching that would require an artefact as powerful as the AEH?
+And the knowledge about very complex Talent-based interactions with the Essence?
+What kind of quest would fit that description...
+that would fully require of our full investment on...
+that is explicitly related to her?
+
+Rin Ohm: ...![#bgmfo]
+
+Keithra: T-That's...
+
+Rin Ohm: [#bgm4498Are you talking about the critical Essence Impairment Disorder condition she has?
+
+Keithra: That...
+That's...
+
+Phoenix: What is it, [#p200]Keit?
+
+Keithra: So...
+That's why Hemo was so...
+
+Edgeworth: Could you explain this to me?
+
+Rin Ohm: Essence Impairment Disorder is a condition that happens to a fraction of the Cintrean population.
+Some people are not predisposed to increasing their Leveling to certain heights...
+so when they reach that critical Essence Level...
+their Essence Shell starts to fracture under pressure without possibility of recovery.
+
+As far as I am aware of, [#p200]there are three types of EID:
+Type I is the inactive one, the predisposition...
+Type II is when the condition is triggered... which requires immediate medical attention...
+And Type III, which is what Zinda Yue has, [#p200]is considered to be a terminal disease.
+
+Their shell is extremely brittle, [#p200]and can fracture at any point in time,
+which is why their Essence Conversion technology is immediately and permanently removed from their body.
+
+Phoenix: I'm afraid that would be why she stepped down of her role as president, correct?
+
+Rin Ohm: That is correct.
+
+Another fatal consequence of EID Type II and III is the inability to feel emotions like a regular person would,
+Type II makes the person emotionally volatile, [#p200] Type III makes them severely detached.
+
+Both Ms. Kas Omou and I weren't there when it happened...
+but I am afraid I know the full extent of the cataclysm that was for the group back then.
+
+Azar: Precisely.
+[#/cfcf3d4]Robogirl [/#]might be a pain in the ass...
+or on the head better said.
+But she doesn't deserve to die over some stupid disease she had since birth.
+
+Besides...
+[#p400]curing an incurable desease is the perfect intellectual challenge for me.
+Does this solve your need for the truth, [#p200][#/cffadad]Mr. Obsession[/#]?
+Or do you need to go home to [#/cc9f8ff]lick your wounds[/#]?
+
+OBJECTION!
+Edgeworth: Checkmate.
+You have been outplayed, [#p200]Mr. Hikami.
+I have forced you to confess something.
+
+Azar: ...
+
+Edgeworth: [#bgm14]The confession is well-grounded I must admit...
+it truly does fit your personality and even the records...
+But there is a big problem with it if you truly start to think about it.
+
+If the research for a cure for EID was the thing you were hiding all this time...
+and you were utilizing the artefact to find it, [#p200]which is consistent with your own profile...
+that seems to corroborate something for us:
+you have indeed been researching something with Mr. Kirskis.
+Something that connects you[#/cff0000] DIRECTLY[/#] to the crime!!
+
+Azar: Really...?
+(Who gave this guy that much chocolate milk?)
+
+Phoenix: [#fm][#sm][#bgs1](He found something to twist again!?)
+
+Edgeworth: I was thinking about something...
+how is this connected with your foreknowledge of the incident?
+I have now resolved precisely why that is!!
+
+Azar: And what is that reason?
+
+Edgeworth: Negligence, [#p200]profound and damning negligence,[#p200] Mr. Hikami.
+And not one that would lift the charge of First-Degree Arson out of you.
+
+Phoenix: WHAT!??
+
+Edgeworth: There is an undeniable truth that has been obvious to us since the very beginning...
+and that is the fire occurred and the library burned down.
+
+Now, [#p200]I am no longer arguing that you or Mr. Kirskis had the intent to actually burn down the library...
+Mr. Wright right has done I great job at uncovering the fact that Mr. Kirskis...
+appears to now not have the profile of a deliberated arsonist.
+
+Therefore, [#p200]hereby I lift my argument that Mr. Kirskis or you has had any intent on committing this crime.
+
+That doesn't resolve anything, [#p200]especially now that I've caught both of you red-handed. 
+
+Edgeworth: To appeal to my former theory earlier...
+I have caught you touching Trinket several times throughout the recordings...
+we know that this very act can actually command Trinket to do deliberate acts for you.
+We verified before through the recordings that Trinket went to the library's Utility Room...
+but why did you send it there then?
+
+Well... [#p200]if we consider that you wanted to progress on your research to cure Ms. Yue from EID...
+and consider the fact that Mr. Kirskis knew of the possibility of hacking the library's servers to save the book's back-up...
+it would only be natural to deduce that you both are aware that servers can be hacked,
+which we all know is true because Mr. Kirskis was the one with the recordings.
+
+That means something crucial:
+
+Trinket was the one that utilized the artefact to hack the systems.
+
+How does this connect to everything?
+
+Well... if we consider that you hacked the systems beforehand to try to get hidden data from the library for your own research's benefit...
+and then the sprinklers deactivated as a side-effect result...
+then you would be a direct culprit for the spread of the fire itself.
+
+Now, [#p200]how would I argue gross Reckless Endangerment that would lead to full-scale unintentional arson?
+
+Remember what Ms. Aru argued was the started of the fire...
+that Mr. Kirskis' robot, Trinket, started the fire unintentionally after scanning the book.
+My argument for Reckless Endangerment here is that...
+you knew that Trinket's scanners could potentially cause the fire.
+
+Azar: Woah...
+
+Edgeworth: If you helped Mr. Kirskis with something as complex as analyzing the artefact...
+you could perfect know that Trinket's scanners could provoke such a thing...
+proved by your very foreknowledge of the entire incident.
+
+Therefore...
+when you led Trinket to hack the servers for your own benefit...
+and the book burned down because of the systematic failure of the robot you anticipated...
+
+IT WAS GROSS NEGLIGENCE SO SHARP THAT IS UNDISTINGUISHABLE FROM INTENT!!
+
+Phoenix: [#p200]...
+
+Azar: Hehehe...
+Not bad, [#p200]Mr. Turnabout.
+You have officially earned my respect.
+I almost want to call you Mr. Birb, The Sequel, if you keep this up.
+
+You have figured a lot of things that are actually partially true about what happened.
+Let me admit that I did have foreknowledge of the potential vulnerability of Trinket's scanners.
+
+Edgeworth: So you are admitting guilt.
+
+Azar: No, I am not.
+For the way that Trinket's scanners burned down that book that day to be possible the way it did...
+it would be required a complete redirection of all of Trinket's energy outlets onto that machinery.
+
+The reaction caused wasn't something the book provoked itself... that is for certain.
+Yet that liability is technically impossible to occur by natural means.
+
+Edgeworth: HUUUH!?
+
+Rin Ohm: Hmm...
+That is true.
+Now that the charge of intent is off the table...
+and that we know the book wasn't the cause of the fire...
+
+I apologize, [#p200]Mr. Edgeworth...
+but my full analysis on Trinket's functionality through the blueprints show that...
+for something like what happened with the scanners to occur...
+there HAS to be some level of intentionality.
+
+You know my own argument for Reckless Endangerment only...
+was based bringing a robot that could potentially cause a fire...
+and leading Trinket unsupervised on the library that led it to deactivate the sprinklers by itself.
+
+The current state of affairs is not compatible with the start of the fire.
+
+Keithra: I-I... I agree...
+I didn't know that specific technicality of Trinket's functions but...
+I find that pretty intuitive based on what I know.
+
+OBJECTION!
+Edgeworth: That still doesn't excuse him sending Trinket to-[#p200]
+
+HOLD IT!
+Azar: Bud, [#p200]I didn't send Trinket to the Utility Room.
+
+The robot was near me several times but...
+I was too focused on my own research.
+
+Azar: I don't pride on using forbidden knowledge to solve my problems...
+I want full victory based only on my intellect and the resources I have available.
+Robogirl's condition is critical yes, 
+she could die today or tomorrow...
+but can't we all?
+Her Type III is not at its last phase just yet,
+it is not like sneezing is going to kill her.
+
+Besides... I don't have Great Link system access to Trinket.
+I cannot command it like Grasshair can, I can show my Great Link reports if you need 'em.
+And I don't have any reason for hacking Trinket either even if I wanted to.
+I could simply tell him directly instead.
+
+OBJECTION!
+Edgeworth: You could perfectly hack your own syst-
+
+OBJECTION!
+Rin Ohm: Mr. Edgeworth, [#p200]stop.
+One thing is hacking archives...
+another is accessing the Great Link system's archives to get access to data...
+But another thing that is completely different is modifying the Great Link system database itself.
+
+The Great Link is what it is because of its unbreakable encrypted code that only the Yuhan Authority has access to.
+Not Mr. Hikami's brilliance could crack that code with its thousands of safety protocols...
+it is by definition impossible.
+
+OBJECTION!
+Edgeworth: It is not impossible Ms. Rin Ohm, 
+what if the artefact can crack even that code.
+What makes you so sure that he is indeed telling the truth?
+
+OBJECTION!
+Rin Ohm: It is irrelevant.
+It is much more likely now that the one who accessed the Utility Room through Trinket is not Mr. Hikami...
+but someone who had hacked the robot itself and told it to turn off the sprinklers.
+The case for intentional arson is NOT off the table.
+
+The TRUE CULPRIT for this crime is out there!!
+And NOW our duty is to find out just WHO THAT PERSON IS!!
+
+Phoenix: Saved by the person that made our life impossible initially...
+what an irony, isn't it Keit?
+
+Keithra: I mean...
+Urza is still our classmate after all...
+
+GAVEL SLAM x3
+Judge: Very well then...
+we have come a long way ever since this trial started.
+I cannot yield my verdict just yet until all possibility has been discarded.
+
+This is because of Trinket being Mr. Kirskis' property...
+We do not know how linked he is to this possible third party...
+or if he had a say with how Trinket burned that book that day.
+
+If Mr. Kriskis had knowledge of this person's intentions...
+and still decided to not tell the authorities about it...
+he still can be charged of Reckless Endangerment at the very least.
+So the trial is not over for him.
+
+Judge: With all of this being said...
+
+GAVEL SLAM
+Judge: Our purpose in this trial has shifted massively after our current revelations.
+We have now the open possibility of there being another person involved in the crime.
+While under Ecuian this would regularly be grounds to dismiss the trial for further investigation...
+the law presented by the Jusnean Tribunal obligues us to continue the trial until we reach an impasse.
+So to proceed and before we call Mr. Kirskis to the stand...
+As it my duty as a judge under the stipulations of the Cintrean-Lurian Alliance...
+
+GAVEL SLAM
+Judge: We are going to hear accountant's potential suspects on this matter.
+Ms. Rin Ohm, the floor is yours.
