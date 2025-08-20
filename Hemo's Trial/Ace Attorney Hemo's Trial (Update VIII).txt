@@ -4346,7 +4346,7 @@ you have indeed been researching something with Mr. Kirskis.
 Something that connects you[#/cff0000] DIRECTLY[/#] to the crime!!
 
 Azar: Really...?
-(Who gave this guy that much chocolate milk?)
+(Who gave this guy that many[#/cee71f0] energy drinks[/#]?)
 
 Phoenix: [#fm][#sm][#bgs1](He found something to twist again!?)
 
@@ -4372,6 +4372,11 @@ Therefore, [#p200]hereby I lift my argument that Mr. Kirskis or you has had any 
 
 That doesn't resolve anything, [#p200]especially now that I've caught both of you red-handed. 
 
+Azar: [#ts45]Did you really...?
+
+Edgeworth: Allow me [#/g]demonstrate it[/#] to you.[#bgs9]
+
+TAKE THAT!
 Edgeworth: To appeal to my former theory earlier...
 I have caught you touching Trinket several times throughout the recordings...
 we know that this very act can actually command Trinket to do deliberate acts for you.
@@ -4391,7 +4396,9 @@ How does this connect to everything?
 
 Well... if we consider that you hacked the systems beforehand to try to get hidden data from the library for your own research's benefit...
 and then the sprinklers deactivated as a side-effect result...
-then you would be a direct culprit for the spread of the fire itself.
+[#ts25]then [#fm][#sm][#bgs24][#/cffe248]YOU[/#] would be a [#/cff0000]direct culprit[/#] for the [#/r]spread of the fire itself[/#]!!
+
+Phoenix: [#sm][#fm][#bgs1]([#/cff2121]Oh no[/#]... [#p200]I don't like where this is going...)
 
 Now, [#p200]how would I argue gross Reckless Endangerment that would lead to full-scale unintentional arson?
 
@@ -4411,127 +4418,3 @@ when you led Trinket to hack the servers for your own benefit...
 and the book burned down because of the systematic failure of the robot you anticipated...
 
 IT WAS GROSS NEGLIGENCE SO SHARP THAT IS UNDISTINGUISHABLE FROM INTENT!!
-
-Phoenix: [#p200]...
-
-Azar: Hehehe...
-Not bad, [#p200]Mr. Turnabout.
-You have officially earned my respect.
-I almost want to call you Mr. Birb, The Sequel, if you keep this up.
-
-You have figured a lot of things that are actually partially true about what happened.
-Let me admit that I did have foreknowledge of the potential vulnerability of Trinket's scanners.
-
-Edgeworth: So you are admitting guilt.
-
-Azar: No, I am not.
-For the way that Trinket's scanners burned down that book that day to be possible the way it did...
-it would be required a complete redirection of all of Trinket's energy outlets onto that machinery.
-
-The reaction caused wasn't something the book provoked itself... that is for certain.
-Yet that liability is technically impossible to occur by natural means.
-
-Edgeworth: HUUUH!?
-
-Rin Ohm: Hmm...
-That is true.
-Now that the charge of intent is off the table...
-and that we know the book wasn't the cause of the fire...
-
-I apologize, [#p200]Mr. Edgeworth...
-but my full analysis on Trinket's functionality through the blueprints show that...
-for something like what happened with the scanners to occur...
-there HAS to be some level of intentionality.
-
-You know my own argument for Reckless Endangerment only...
-was based bringing a robot that could potentially cause a fire...
-and leading Trinket unsupervised on the library that led it to deactivate the sprinklers by itself.
-
-The current state of affairs is not compatible with the start of the fire.
-
-Keithra: I-I... I agree...
-I didn't know that specific technicality of Trinket's functions but...
-I find that pretty intuitive based on what I know.
-
-OBJECTION!
-Edgeworth: That still doesn't excuse him sending Trinket to-[#p200]
-
-HOLD IT!
-Azar: Bud, [#p200]I didn't send Trinket to the Utility Room.
-
-The robot was near me several times but...
-I was too focused on my own research.
-
-Azar: I don't pride on using forbidden knowledge to solve my problems...
-I want full victory based only on my intellect and the resources I have available.
-Robogirl's condition is critical yes, 
-she could die today or tomorrow...
-but can't we all?
-Her Type III is not at its last phase just yet,
-it is not like sneezing is going to kill her.
-
-Besides... I don't have Great Link system access to Trinket.
-I cannot command it like Grasshair can, I can show my Great Link reports if you need 'em.
-And I don't have any reason for hacking Trinket either even if I wanted to.
-I could simply tell him directly instead.
-
-OBJECTION!
-Edgeworth: You could perfectly hack your own syst-
-
-OBJECTION!
-Rin Ohm: Mr. Edgeworth, [#p200]stop.
-One thing is hacking archives...
-another is accessing the Great Link system's archives to get access to data...
-But another thing that is completely different is modifying the Great Link system database itself.
-
-The Great Link is what it is because of its unbreakable encrypted code that only the Yuhan Authority has access to.
-Not Mr. Hikami's brilliance could crack that code with its thousands of safety protocols...
-it is by definition impossible.
-
-OBJECTION!
-Edgeworth: It is not impossible Ms. Rin Ohm, 
-what if the artefact can crack even that code.
-What makes you so sure that he is indeed telling the truth?
-
-OBJECTION!
-Rin Ohm: It is irrelevant.
-It is much more likely now that the one who accessed the Utility Room through Trinket is not Mr. Hikami...
-but someone who had hacked the robot itself and told it to turn off the sprinklers.
-The case for intentional arson is NOT off the table.
-
-The TRUE CULPRIT for this crime is out there!!
-And NOW our duty is to find out just WHO THAT PERSON IS!!
-
-Phoenix: Saved by the person that made our life impossible initially...
-what an irony, isn't it Keit?
-
-Keithra: I mean...
-Urza is still our classmate after all...
-
-GAVEL SLAM x3
-Judge: Very well then...
-we have come a long way ever since this trial started.
-I cannot yield my verdict just yet until all possibility has been discarded.
-
-This is because of Trinket being Mr. Kirskis' property...
-We do not know how linked he is to this possible third party...
-or if he had a say with how Trinket burned that book that day.
-
-If Mr. Kriskis had knowledge of this person's intentions...
-and still decided to not tell the authorities about it...
-he still can be charged of Reckless Endangerment at the very least.
-So the trial is not over for him.
-
-Judge: With all of this being said...
-
-GAVEL SLAM
-Judge: Our purpose in this trial has shifted massively after our current revelations.
-We have now the open possibility of there being another person involved in the crime.
-While under Ecuian this would regularly be grounds to dismiss the trial for further investigation...
-the law presented by the Jusnean Tribunal obligues us to continue the trial until we reach an impasse.
-So to proceed and before we call Mr. Kirskis to the stand...
-As it my duty as a judge under the stipulations of the Cintrean-Lurian Alliance...
-
-GAVEL SLAM
-Judge: We are going to hear accountant's potential suspects on this matter.
-Ms. Rin Ohm, the floor is yours.
