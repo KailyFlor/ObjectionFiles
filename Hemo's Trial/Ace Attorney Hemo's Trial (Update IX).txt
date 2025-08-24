@@ -1,4 +1,4 @@
-﻿FOUR MONTHS AFTER THE BEGINNING OF THE CULTURAL EXCHANGE PROGRAM DURING KEINDYA
+﻿FOUR MONTHS AFTER THE BEGINNING OF THE CULTURAL EXCHANGE PROGRAM DURING THE STORY KEINDYA
 
 TRIAL SESSION I
 
@@ -185,7 +185,7 @@ Then you may begin your testimony.
 
 Leyna: O-Of course.
 I'll tell the truth, no issues there...
-…
+...
 
 
 Rin Ohm: …
@@ -5088,8 +5088,8 @@ Just how could you be searching for a specific book...
 if you don't know the kind of case you were preparing for?[#bgs3]
 
 OBJECTION!
-Rin Ohm: Mr. Wright, [#p200][#/r]training started [/#]as soon as[#/b] Synthesis was over[/#].
-[#ts26][#fm][#sm][#bgs24]You should know[#/g] better than anyone[/#] I should practice [#/r]theoretical cases[/#]!!
+Rin Ohm: Mr. Wright, [#p200][#/r]electability started [/#]as soon as[#/b] Synthesis was over[/#].
+[#ts26][#fm][#sm][#bgs24]You should know[#/g] better than anyone[/#] I should practice [#sm][#fm][#bgs15][#/r]theoretical cases[/#] for it!![#bgs9]
 
 OBJECTION!
 Phoenix: Yet you were very adamant on acquiring that specific volume.
@@ -5115,7 +5115,7 @@ You are unexperienced,
 they could have perfectly just called a professional accountant instead.
 
 Rin Ohm: DO NOT dare to call me youngster!!
-I may be new to the full practical field...
+I may be new to the practical field...
 but I have the FULL CAPABILITES of a regular accountant!!!
 
 Phoenix: I have no doubt about that.
@@ -5357,6 +5357,7 @@ they certainly would have done the perfect thing for getting you to act suspicio
 OBJECTION!
 Edgeworth: Mr. Wright, it wasn't guaranteed Ms. Rin Ohm would have come back for that book.
 The legal documents online still exists.
+
 Phoenix: Of course they do, that's how they made the plan in the first place.
 They would have pieced together the why of Ms. Rin Ohm's quest,
 by just observing her and her behavior the week prior.
@@ -5380,9 +5381,11 @@ We have to consider that whoever did all of this...
 has to know about Mr. Kirskis at the very least.
 So it is very intuitive to assume that the culprit...
 would have locked in on the information regarding the Alninam students at Wega.
+
 HOLD IT!
 Edgeworth: So you are now agreeing with my previous observation...
 regarding the Meritocracy's bad reputation within Luria in certain spheres.
+
 Phoenix: I never disagreed with that possibility, Edgeworth.
 I just let Ms. Kas Omou counter the assumption you made about Mr. Kirskis working with them.
 You can get to "know Mr. Kirskis well" not only by knowing him within the academy...
@@ -5445,17 +5448,6 @@ OBJECTION!
 Phoenix: No Edgeworth, it doesn't narrow things down to Wega Academy.
 Because I know of more than a way the criminal could have known about all of this information...
 in a WAY that isn't necessary for Mr. Kirskis to ever be involved!!!
-
-Edgeworth: ...!
-
-TAKE THAT!
-Phoenix: ...
-Let's go back to the suspects I have introduced a while ago, shall we?
-Remember Endrys Carnyl, the lawyer from the University of Abstrya?
-He is the leader of an important movement from that very university.
-
-What kind of movement you may be asking?
-The kind of movement that would allow you to gather sensitive intel!!
 
 Edgeworth: ...!
 
