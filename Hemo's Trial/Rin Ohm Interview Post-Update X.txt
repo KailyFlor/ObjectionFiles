@@ -1,0 +1,77 @@
+Reporter: "Ms. Rin Ohm? A moment of your time, if I may? That was one of the most unpredictable trial sessions Ecuia has seen in years. As the appointed Jusnean Accountant, you have a unique perspective on these proceedings. What are your initial thoughts on this radical shift, from a clear-cut arson case to... well, to whatever this has become?"
+
+Rin Ohm: "So this is the interview that they have briefed me about before. Sigh, if I must, I will leisure you for a moment. As a Cintrean arbiter of law I cannot disclose the full extent of my opinion, since it is classified under the weight of my duties and tribulations. I however will mention that, what happened in this trial, was certainly not expected."
+
+"The complexity of this case has increased dramatically ever since it began. Mr. Wright has made critical points and... as it appeared to be in the trial itself, many things have been revealed that both the prosecution led by Mr. Edgeworth nor my own database could not anticipate."
+
+Reporter: "Unexpected is certainly an understatement,"
+
+"You mention your database couldn't have anticipated this. Cintrean justice, from what we Lurians understand, is heavily reliant on verifiable data from the Great Link system. Yet this trial has been defined by the opposite: official Naori Command records were completely contradicted by witness testimony, and Mr. Wright even introduced theories of paranormal influence to explain how the culprit gathered intelligence."
+
+"From a Jusnean accountant's perspective, how do you even begin to account for a truth that seems to defy the very data meant to define it?"
+
+Rin Ohm: "As contradictory as it may appear to you, a Jusnean accountant's role extends beyond simply following guidelines and rules. We are arbiters, and by that very definition, we are meant to not only follow the law, but also interpret it according to its flexibility. The Great Link system itself is hard-coded, it cannot be modified by anyone but the Authority, however the incredible complexity of the Meritocracy's extensive database make it so that, in certain circumstances, rules can be bent."
+
+"An example of this is Nep Tedu Kas Omou's mission, OPS-352B. The Commander didn't break any of the rules, he bent what is normally expected for him to follow under regular directives, which by Cintrean terms is considered to be questionable. As you can tell by the very wording of the mission report, not mentioning Mr. Kirskis was not a complete fabrication of events that actually transpired, but rather, it was merely deliberately incomplete. He followed the norms, did what he did under them, thus there are no grounds to punish him by that avenue, yet this does not however stop it from being deceiving."
+
+"This is by definition how some unconventional Cintrean workers operate. There is a gargantuan amount of laws, but people can swim over them and find things that, as it happened with the Yuhan Pamphlet's clause, lets them to have their way, or at least try to get away with things that aren't considered the norm."
+
+"All of these loopholes are very reason why accountants like me have to be present in trial, since only people as versed as us, as quick-witted with our Great Link law database as us, are capable of pinpointing the strategies and interpreting the games these kind of masters of deception play. It is not inherently illegal, Nep Kas Omou is high-ranking for a reason... but his actions that day certainly balance on the fine line between legality and illegality."
+
+Reporter: "A compelling distinction..." "So the challenge isn't a lack of data, but a legal system so vast that it becomes a 'game' of interpretation, played by masters who bend the rules without breaking them. You're the one who must referee that game."
+
+"You yourself were briefly accused of playing such a game—of seeking that specific legal text with the foreknowledge that a case involving your classmates was likely to occur. Now you're back in the arbiter's seat. How does an accountant maintain the strict impartiality required of your role when you've been a piece on the board yourself? Does it present a conflict, or does it give you a clearer view of the moves being made?"
+
+Rin Ohm: "I understand what some people may be thinking, that perhaps, my impartiality is under question. I knew of this as soon as I took the case, since I was present at the moment of the alleged crime. However, is it true taking a case so 'close to home' delivers a level of insight that may not be possible otherwise. I saw how the fire occurred, how it spread."
+
+"But fear not, this does not affect my impartiality since my Great Link system has an encrypted record of what I see and what I do. This is the very thing that allowed Mr. Hikami to be discarded as suspect, he offered his encrypted Great Link database as proof, which meant that, nothing that he has contradicts his claim. It is the ultimate form of proof."
+
+"When Mr. Wright compelled me to be on the stand, he obliged me to follow this Great Link system procedure from the very beginning of my testimony, which forced me to only state things that I know are under record. I was already pressured by matter of fact, as he ripped away my ability to lie at that moment: I was by definition obliged to prove my claims, since if there were to be any contradiction found, my meritocratic ranking would have been found severely affected, or possibly permanently sanctioned."
+
+Reporter: "I see. So the Great Link record is the ultimate arbiter—an incorruptible, encrypted log that ensures objectivity, for you and for any other Cintrean . That provides a fascinatingly solid foundation for justice when dealing with the actions of known Cintreans.
+
+However, the trial's focus has now shifted entirely. We're searching for an unknown third party who allegedly hacked Trinket—a robot you yourself described during the trial as being made of "rudimentary technology stolen by Orion piracy," not standard Essence Conversion technology. This culprit is, for now, a ghost.
+
+How does a Jusnean accountant's analysis function when the core of the mystery isn't a verifiable action on a Cintrean's Great Link, but the identity of a saboteur who manipulated a non-Cintrean device? Where do you even begin your search for factual accuracy when there's no data trail to follow?"
+
+Rin Ohm: "The complicated thing of such a trial is the fact that the Great Link data log of a person is encrypted and protected by law. Unless explicitly required and mandated in a trial with thorough justification, you cannot peeve onto other's Great Link archives, which makes the entire process more complicated. This is of course to protect people's privacy, because doing so without contemplation would result in a catastrophic privacy crisis."
+
+"Imagine for a moment Lurians had one of those too. If we had the possibility of checking every person's Great Link databases, it would be way easier for justice, but the law is the law, and you need to find things out while still respecting people's rights if you desire to prevent people for revolting."
+
+"However, I hail from a land that does not possess the Great Link system, but a highly advanced computer registry of every person's identification and essence signature. It does not track everyone, it isn't as invasive. Luthneans understand the need for privacy, even with the conveying risks it carries."
+
+"Trinket is a robot created out of materials that pirates have stolen and compromised over time, the Kirskis clan lives by sabotaging Cintrean and Hatiman technology alike. However most Orion tech does not utilize Essence Conversion because it requires a very intimate connection with the soul, and doing such a thing could easily compromise them and their identity, and leave essence trials that could be fatal for their haunt."
+
+"This is another reason why Hemo Kirskis IV being taken by the pirates was considered unfeasible in my eyes, it is by definition a stupid move they wouldn't do for the life of them and their unruly methods."
+
+Reporter: "That's a vital piece of the puzzle..." "So the very reason pirates use that kind of technology is to avoid leaving the 'essence trails' that are inherent to Cintrean systems. It's a strategic choice for anonymity."
+
+"This implies our true culprit is not just an arsonist; they're sophisticated. They deliberately exploited a systemic blind spot—manipulating a non-Cintrean device specifically because it wouldn't leave a neat data log on the Great Link for an accountant like you to find."
+
+"The list of potential suspects has been narrowed to those present in the library that day—a mix of Lurians and your fellow Cintreans, with a wide range of skills. From your analytical perspective, what kind of profile are we looking for now? What specific knowledge—Cintrean, Lurian, or perhaps even Orion—would someone need to possess to execute this plan so cleanly?"
+
+Rin Ohm: "I am afraid I cannot discard the possibility of the mastermind being behind my peers. If it were for my own personal hunch, even Ms. Kas Omou herself is suspect."
+
+"However, as seen by my very moments of vulnerability in the trial, I cannot allow my intuition to cloud my judgment. At the moment, Mr. Wright is offering the... very strange possibility of there being other methods that not even Cintrean or Luthnean science for that matter, understand, which I find quite... strange, to say the least."
+
+"We cannot judge the book by its cover nonetheless, when Mr. Karnyl testifies, we will get to the bottom of what exactly is that "Abstracta" all about."
+
+Reporter: "A prudent approach..." "withholding judgment until all facts are presented, no matter how... strange they may seem."
+
+The bailiff near the courtroom door clears his throat, signaling the recess is nearing its end. 
+
+Reporter: "I know I only have time for one more question but..."
+
+"this trial started with a simple arson charge and has now introduced concepts that seem to challenge Cintrean science itself. If Mr. Wright's theory about this 'Abstracta' is proven true—if the culprit truly did operate using a power outside the known frameworks of technology and Essence Conversion—what does that mean for your legal process? Can a system built on verifiable data and encrypted logs even prosecute a crime whose methods are, by definition, beyond verification?" "It seems the very foundation of what constitutes 'evidence' is on trial here."
+
+Rin Ohm: "Even if it is beyond current understanding of the Essence, we still can profile its networks. If there were to be a dimension made purely based on Superior Energy, our technology is perfectly capable of interpreting it and understanding it, we are equipped for that. What is beyond me is the how all of this is possible, if it is not just a bluff by Mr. Wright, which I doubt it is... I'm afraid.
+
+"But I'm running out of words, it is not the time to deal with hypotheticals, I must continue with my duties. I thank you for this moment, it allowed me... to think about what has been happening so far and... perhaps it will help me with the trial itself."
+
+Reporter: "So even a theoretical plane of pure energy is simply another network for Cintrean technology to profile and understand. A fascinating, and somewhat intimidating, prospect," I say, switching off the recorder and offering a small, respectful nod. "I'm glad this conversation proved useful for you as well."
+
+The courtroom doors open, and the bailiff's voice echoes, calling the officials back inside.
+
+"Thank you again for your time and your unparalleled insight, Ms. Rin Ohm. All of Luria will be watching to see how this extraordinary case concludes."
+
+
